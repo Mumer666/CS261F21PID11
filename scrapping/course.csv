@@ -1,0 +1,181 @@
+university,name of Course,lectures videos,price of Course,students enrolled,name of professor,duration of course
+            2012 BX Haarlem (Welgelegen)        ,Apartment Bellevuelaan 255,114 lec videos,"                €1,830 per month            ",114100,Mooijekind Vleut Verhuurmakelaars ,3 months
+            2021 TS Haarlem (Generaalsbuurt)        ,Apartment Reitzstraat,64 lec videos,"                €1,500 per month            ",64100,Homecrew ,2 months
+            2013 TH Haarlem (Leidsebuurt-west)        ,Apartment Kolkstraat,50 lec videos,                €950 per month            ,50100,Centraal Makelaardij ,2 months
+            2034 BB Haarlem (Landenbuurt)        ,Apartment Frankrijklaan,82 lec videos,"                €1,450 per month            ",82100,Engel & Volkers Kennemerland ,3 months
+            2011 DS Haarlem (Heiliglanden)        ,Apartment Kleine Houtstraat 122,50 lec videos,"                €1,300 per month            ",50100,Weelde Wonen ,2 months
+            2011 XK Haarlem (Vijfhoek)        ,House Tuchthuisstraat 1 A,80 lec videos,"                €1,600 per month            ",80100,Weelde Wonen ,2 months
+            2011 NA Haarlem (Stationsbuurt)        ,Apartment Zijhuizen,30 lec videos,                €920 per month            ,30100,RandstadWonen Haarlem ,2 months
+            2031 WS Haarlem (Sportliedenbuurt)        ,Apartment Kelderwindkade,85 lec videos,"                €1,850 per month            ",85100,LW23 ,3 months
+            2011 TM Haarlem (Binnenstad)        ,Apartment Zijlstraat,77 lec videos,"                €1,750 per month            ",77100,123Wonen Haarlem ,4 months
+            2024 DJ Haarlem (Schotervlieland)        ,House Korteweg,80 lec videos,"                €1,650 per month            ",80100,Rotsvast Haarlem ,3 months
+            2013 AT Haarlem (Garenkokerskwartier)        ,House Kinderhuissingel 62,185 lec videos,"                €3,000 per month            ",185100,Lighthouse Property Services B.V. ,6 months
+            2021 ER Haarlem (Frans Halsbuurt)        ,Apartment Berckheydestraat 21 ZW,56 lec videos,"                €1,395 per month            ",56100,Lighthouse Property Services B.V. ,2 months
+            2012 DT Haarlem (Koninginnebuurt)        ,Apartment Raamsingel 30 B,55 lec videos,"                €1,350 per month            ",55100,Huizenstede Makelaars ,2 months
+            2024 XN Haarlem (Burgemeesterskwartier)        ,Apartment Van Egmondstraat 52 RD,100 lec videos,"                €1,745 per month            ",100100,Interhouse verhuurmakelaars Haarlem ,4 months
+            2023 AN Haarlem (Kleverpark-zuid)        ,House Jan Steenstraat 38,56 lec videos,"                €1,445 per month            ",56100,Interhouse verhuurmakelaars Haarlem ,2 months
+            2034 GH Haarlem (Stedenbuurt-west)        ,Apartment Engelandlaan 1154,86 lec videos,"                €1,550 per month            ",86100,Heemborgh Makelaars Bennebroek ,3 months
+            2011 LW Haarlem (Stationsbuurt)        ,Apartment Korte Herenstraat,77 lec videos,"                €1,700 per month            ",77100,123Wonen Haarlem ,3 months
+            2032 RW Haarlem (Oude Amsterdamsebuurt)        ,Apartment Herensingel,80 lec videos,"                €1,575 per month            ",80100,123Wonen Haarlem ,4 months
+            2021 RL Haarlem (De Goede Hoop)        ,Apartment Transvaalstraat,65 lec videos,"                €1,650 per month            ",65100,123Wonen Haarlem ,3 months
+            2011 PE Haarlem (Binnenstad)        ,Apartment Nassaulaan,93 lec videos,"                €1,600 per month            ",93100,123Wonen Haarlem ,3 months
+            2011 TE Haarlem (Binnenstad)        ,Apartment Stoofsteeg,70 lec videos,"                €1,500 per month            ",70100,123Wonen Haarlem ,3 months
+            2013 XR Haarlem (Leidsebuurt-oost)        ,Apartment Leidsezijstraat 10 Z,55 lec videos,"                €1,550 per month            ",55100,Grand Relocation ,2 months
+            2013 BZ Haarlem (Garenkokerskwartier)        ,Apartment Prévinairestraat 72,57 lec videos,"                €1,500 per month            ",57100,Lighthouse Property Services B.V. ,3 months
+            2011 EH Haarlem (Heiliglanden)        ,House Klein Heiligland,50 lec videos,"                €1,295 per month            ",50100,Koops Makelaardij ,2 months
+            2023 RJ Haarlem (Bomenbuurt-west)        ,Apartment Marnixstraat,75 lec videos,"                €1,300 per month            ",75100,Koops Makelaardij ,2 months
+            2022 BJ Haarlem (Soendabuurt)        ,Apartment Lombokstraat,110 lec videos,"                €1,495 per month            ",110100,Koops Makelaardij ,3 months
+            2011 RB Haarlem (Binnenstad)        ,Apartment Barteljorisstraat 10 C,45 lec videos,"                €1,275 per month            ",45100,Van Oosterom Makelaar ,2 months
+            2011 CG Haarlem (Burgwal)        ,Apartment Spaarne 133,71 lec videos,"                €1,395 per month            ",71100,Van Oosterom Makelaar ,3 months
+            2012 NJ Haarlem (Koninginnebuurt)        ,Apartment Wagenweg,40 lec videos,"                €1,195 per month            ",40100,Home of Orange ,2 months
+            2013 ZB Haarlem (Leidsebuurt-oost)        ,Apartment Jan Nieuwenhuijzenstraat,55 lec videos,                €950 per month            ,55100,Haarlem Real Estate ,2 months
+            2011 VB Haarlem (Binnenstad)        ,Apartment Zijlvest,16 lec videos,                €595 per month            ,16100,Centraal Makelaardij ,1 room
+            2021 ET Haarlem (Frans Halsbuurt)        ,Apartment Berckheydestraat,60 lec videos,"                €1,250 per month            ",60100,Centraal Makelaardij ,2 months
+            2011 PH Haarlem (Binnenstad)        ,Apartment Nassaustraat 21 rood,150 lec videos,"                €2,500 per month            ",150100,Lighthouse Property Services B.V. ,4 months
+            2011 KN Haarlem (Stationsbuurt)        ,Apartment Jansweg,42 lec videos,"                €1,100 per month            ",42100,Roomservice ,2 months
+            2013 ZL Haarlem (Leidsebuurt-west)        ,Apartment Westergracht,68 lec videos,"                €1,600 per month            ",68100,Rental Valley ,3 months
+            2012 CC Haarlem (Welgelegen)        ,Apartment Kleine Houtweg 83 B-II,120 lec videos,"                €1,900 per month            ",120100,Amsterdam Housing ,3 months
+            2025 EM Haarlem (Schrijversbuurt)        ,Apartment Harry Mulischstraat 201,86 lec videos,"                €1,550 per month            ",86100,Nu Woonruimte ,3 months
+            2011 AL Haarlem (Burgwal)        ,Apartment Houtmarkt,75 lec videos,"                €1,495 per month            ",75100,LW23 ,3 months
+            2031 WS Haarlem (Sportliedenbuurt)        ,House Kelderwindkade,267 lec videos,"                €4,950 per month            ",267100,Koops Makelaardij ,6 months
+            2015 AM Haarlem (Bloemenbuurt)        ,Apartment Narcisplantsoen 104,74 lec videos,"                €1,400 per month            ",74100,Van Oosterom Makelaar ,3 months
+            2011 LH Haarlem (Stationsbuurt)        ,Apartment Lange Herenstraat,75 lec videos,"                €1,850 per month            ",75100,DL Housing Services ,3 months
+            2011 LH Haarlem (Stationsbuurt)        ,Studio Lange Herenstraat,35 lec videos,"                €1,100 per month            ",35100,DL Housing Services ,1 room
+            2011 JJ Haarlem (Bakenes)        ,Apartment Bakenesserstraat,55 lec videos,"                €1,400 per month            ",55100,"Expats1stStop,                                                                                                         &Bijleveld Makelaardij ",2 months
+            2021 ER Haarlem (Frans Halsbuurt)        ,Apartment Berckheydestraat,75 lec videos,"                €1,375 per month            ",75100,Kroon van Diest Makelaardij ,4 months
+            2011 RP Haarlem (Bakenes)        ,Apartment Nieuwe Kruisstraat 24 A Rd,84 lec videos,"                €2,150 per month            ",84100,Lighthouse Property Services B.V. ,3 months
+            2011 VN Haarlem (Vijfhoek)        ,Room Wilhelminastraat 46 6,18 lec videos,                €550 per month            ,18100,Nu Woonruimte ,1 room
+            2035 BL Haarlem (Geneesherenbuurt)        ,Apartment Robert Kochlaan 338,96 lec videos,"                €1,495 per month            ",96100,Van Oosterom Makelaar ,4 months
+            2014 EL Haarlem (Natuurkundigenbuurt-west)        ,Apartment Kamerlingh Onnesstraat,90 lec videos,"                €1,450 per month            ",90100,Rotsvast Haarlem ,3 months
+            2034 LP Haarlem (Kruidenbuurt)        ,Apartment Ierlandstraat 82,55 lec videos,"                €1,125 per month            ",55100,Siebbeles Vastgoed ,2 months
+            2036 AC Haarlem (Ellertsveld)        ,Apartment Els van Roodenstraat,75 lec videos,"                €1,350 per month            ",75100,Koops Makelaardij ,4 months
+            2011 AB Haarlem (Burgwal)        ,Apartment Spaarnwouderstraat 51,70 lec videos,"                €1,250 per month            ",70100,Lighthouse Property Services B.V. ,2 months
+            2032 ZA Haarlem (Van Zeggelenbuurt)        ,Apartment Jac. van Looystraat 21 A,40 lec videos,"                €1,145 per month            ",40100,Interhouse verhuurmakelaars Haarlem ,2 months
+            2012 HM Haarlem (Florapark)        ,Apartment Floraplein,90 lec videos,"                €1,995 per month            ",90100,BZ Wonen Huur en Verhuurmakelaars ,3 months
+            2012 HM Haarlem (Florapark)        ,Apartment Floraplein,65 lec videos,"                €1,495 per month            ",65100,BZ Wonen Huur en Verhuurmakelaars ,2 months
+            2013 DB Haarlem (Garenkokerskwartier)        ,Apartment Zijlweg 21 zwart/2,35 lec videos,"                €1,125 per month            ",35100,Nu Woonruimte ,1 room
+            2011 VJ Haarlem (Vijfhoek)        ,Apartment Wilhelminastraat,50 lec videos,"                €1,250 per month            ",50100,Koops Makelaardij ,2 months
+            2011 KP Haarlem (Stationsbuurt)        ,House Parklaan,200 lec videos,"                €2,800 per month            ",200100,Koops Makelaardij ,5 months
+            2011 CL Haarlem (Binnenstad)        ,Apartment Spaarne 80 A,66 lec videos,"                €1,500 per month            ",66100,JRS Makelaars Haarlem ,3 months
+            2023 GD Haarlem (Ripperdabuurt)        ,Apartment Sint-Jorisveld,80 lec videos,"                €1,600 per month            ",80100,Koops Makelaardij ,3 months
+            2012 BX Haarlem (Welgelegen)        ,Apartment Bellevuelaan,60 lec videos,"                €1,200 per month            ",60100,EHR Haarlem - Leiden ,2 months
+            2022 GA Haarlem (Nieuw-Guineabuurt)        ,Apartment Botterboulevard,75 lec videos,"                €1,500 per month            ",75100,EHR Haarlem - Leiden ,3 months
+            2021 BN Haarlem (De Goede Hoop)        ,Apartment Paul Krugerkade,41 lec videos,                €925 per month            ,41100,Centraal Makelaardij ,2 months
+            2034 CR Haarlem (Stedenbuurt-oost)        ,House Wenenstraat 23,153 lec videos,"                €1,795 per month            ",153100,ViaDaan ,5 months
+            2011 HX Haarlem (Binnenstad)        ,Apartment Schagchelstraat 14 B rood,80 lec videos,"                €1,900 per month            ",80100,Lighthouse Property Services B.V. ,3 months
+            2023 XH Haarlem (Kleverpark-zuid)        ,Studio Wouwermanstraat,35 lec videos,                €850 per month            ,35100,Haarlem Real Estate ,1 room
+            2022 EA Haarlem (Soendabuurt)        ,Apartment Spaarndamseweg,48 lec videos,"                €1,300 per month            ",48100,Home of Orange ,2 months
+            2022 VW Haarlem (Weltevredenbuurt)        ,House Indischestraat,80 lec videos,"                €1,445 per month            ",80100,BZ Wonen Huur en Verhuurmakelaars ,3 months
+            2012 ZK Haarlem (Rozenprieel-zuid)        ,House Bakkerstraat 20,67 lec videos,"                €1,325 per month            ",67100,Lighthouse Property Services B.V. ,2 months
+            2023 AH Haarlem (Kleverpark-zuid)        ,Apartment Van der Vinnestraat 4 RD,134 lec videos,"                €2,300 per month            ",134100,J.J. van der Heide Beheer B.V. ,4 months
+            2011 DG Haarlem (Binnenstad)        ,Apartment Gravinnesteeg,93 lec videos,"                €1,990 per month            ",93100,123Wonen Haarlem ,3 months
+            2012 NJ Haarlem (Koninginnebuurt)        ,Apartment Wagenweg,80 lec videos,"                €1,950 per month            ",80100,123Wonen Haarlem ,4 months
+            2011 TS Haarlem (Binnenstad)        ,Apartment Kromme Elleboogsteeg,48 lec videos,"                €1,410 per month            ",48100,Koops Makelaardij ,2 months
+            2021 HR Haarlem (Generaalsbuurt)        ,Apartment Schoterweg,50 lec videos,"                €1,300 per month            ",50100,123Wonen Haarlem ,3 months
+            2012 NA Haarlem (Florapark)        ,Apartment Wagenweg,80 lec videos,"                €1,500 per month            ",80100,Hofzicht Makelaars ,2 months
+            2013 CD Haarlem (Garenkokerskwartier)        ,House Roosveldstraat 58,84 lec videos,"                €1,650 per month            ",84100,Nu Woonruimte ,3 months
+            2014 HV Haarlem (Natuurkundigenbuurt-oost)        ,Apartment Pieter van Musschenbroekstraat 31,45 lec videos,"                €1,250 per month            ",45100,Amstelland Makelaars ,2 months
+            2011 JW Haarlem (Bakenes)        ,Apartment Bakenessergracht,90 lec videos,"                €2,050 per month            ",90100,EHR Haarlem - Leiden ,3 months
+            2034 NT Haarlem (Stedenbuurt-west)        ,Room Albion,15 lec videos,                €700 per month            ,15100,Roos Vastgoedmanagement ,1 room
+            2032 HA Haarlem (Cremerbuurt)        ,Apartment Prins Bernhardlaan,60 lec videos,"                €1,195 per month            ",60100,Koops Makelaardij ,2 months
+            2012 CX Haarlem (Welgelegen)        ,Apartment Zadelmakerslaan 84,96 lec videos,"                €1,665 per month            ",96100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2011 KN Haarlem (Stationsbuurt)        ,Apartment Jansweg 42 C,83 lec videos,"                €1,695 per month            ",83100,Van der Schaaf & Kooijmans NVM Makelaars ,3 months
+            2024 BL Haarlem (De Krim)        ,Apartment Laurens Reaellaan,95 lec videos,"                €1,500 per month            ",95100,Rebid ,4 months
+            2033 WN Haarlem (Architectenbuurt)        ,Apartment Berlagelaan,83 lec videos,"                €1,350 per month            ",83100,123Wonen Haarlem ,3 months
+            2011 AL Haarlem (Burgwal)        ,Apartment Houtmarkt,67 lec videos,"                €1,500 per month            ",67100,Rotsvast Haarlem ,3 months
+            2023 AD Haarlem (Kleverpark-zuid)        ,Apartment Schotersingel,60 lec videos,"                €1,800 per month            ",60100,RandstadWonen Haarlem ,4 months
+            2012 ZW Haarlem (Rozenprieel-zuid)        ,Apartment Bloemhofstraat,95 lec videos,"                €1,800 per month            ",95100,Koops Makelaardij ,3 months
+            2022 DS Haarlem (Medanbuurt)        ,Apartment Jan Gijzenkade 236 HS,60 lec videos,"                €1,850 per month            ",60100,Makelaar voor een uur ,3 months
+            2011 GN Haarlem (Binnenstad)        ,Apartment Gedempte Oude Gracht,111 lec videos,"                €1,650 per month            ",111100,Boonstra Heijmeijer Makelaars ,3 months
+            2015 CE Haarlem (Veldzigt)        ,Apartment Bijdorplaan,50 lec videos,"                €1,250 per month            ",50100,Haarlem Real Estate ,2 months
+            2025 VC Haarlem (Nachtegaalbuurt)        ,House Lijsterstraat,110 lec videos,"                €2,250 per month            ",110100,Rotsvast Haarlem ,6 months
+            2015 CE Haarlem (Veldzigt)        ,Apartment Bijdorplaan,50 lec videos,"                €1,250 per month            ",50100,Haarlem Real Estate ,2 months
+            2025 VC Haarlem (Nachtegaalbuurt)        ,House Lijsterstraat,110 lec videos,"                €2,250 per month            ",110100,Rotsvast Haarlem ,6 months
+            2025 DV Haarlem (Schrijversbuurt)        ,Apartment Marsmanplein 200,63 lec videos,"                €1,425 per month            ",63100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2032 PZ Haarlem (Oude Amsterdamsebuurt)        ,Apartment Severijnsstraat 34,40 lec videos,                €800 per month            ,40100,Ron Schipper Makelaardij ,2 months
+            2012 ZR Haarlem (Rozenprieel-zuid)        ,Apartment Voorhelmstraat 4,45 lec videos,"                €1,350 per month            ",45100,Ron Schipper Makelaardij ,2 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 C07,93 lec videos,"                €1,725 per month            ",93100,Lighthouse Property Services B.V. ,2 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 C20,173 lec videos,"                €3,300 per month            ",173100,Lighthouse Property Services B.V. ,4 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 A10,156 lec videos,"                €2,950 per month            ",156100,Lighthouse Property Services B.V. ,3 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 C12,141 lec videos,"                €2,450 per month            ",141100,Lighthouse Property Services B.V. ,4 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 C5,76 lec videos,"                €1,550 per month            ",76100,Lighthouse Property Services B.V. ,3 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 A9,89 lec videos,"                €1,250 per month            ",89100,Lighthouse Property Services B.V. ,2 months
+            2011 XL Haarlem (Vijfhoek)        ,Apartment Botermarkt,45 lec videos,"                €1,100 per month            ",45100,123Wonen Haarlem ,2 months
+            2011 WB Haarlem (Vijfhoek)        ,Apartment Gedempte Voldersgracht,100 lec videos,"                €1,895 per month            ",100100,VRC - Veth Realty & Consultancy BV ,3 months
+            2011 CK Haarlem (Binnenstad)        ,Apartment Spaarne 58 D,60 lec videos,"                €1,445 per month            ",60100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2023 VR Haarlem (Kweektuinbuurt)        ,Apartment Pijnboomstraat 143,70 lec videos,"                €1,485 per month            ",70100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2014 VR Haarlem (Geschiedschrijversbuurt)        ,Apartment Van Oosten de Bruijnstraat 175 A,45 lec videos,"                €1,145 per month            ",45100,Interhouse verhuurmakelaars Haarlem ,2 months
+            2033 EK Haarlem (Kruistochtbuurt)        ,Apartment Byzantiumstraat 26 RD,57 lec videos,"                €1,485 per month            ",57100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 B04,93 lec videos,"                €1,225 per month            ",93100,Lighthouse Property Services B.V. ,1 room
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 B17,94 lec videos,"                €1,500 per month            ",94100,Lighthouse Property Services B.V. ,2 months
+            2023 BP Haarlem (Kleverpark-noord)        ,Apartment Verspronckweg 150 B19,111 lec videos,"                €1,675 per month            ",111100,Lighthouse Property Services B.V. ,1 room
+            2011 VL Haarlem (Vijfhoek)        ,Apartment Wilhelminastraat 59 D,46 lec videos,"                €1,365 per month            ",46100,Interhouse verhuurmakelaars Haarlem ,2 months
+            2025 GZ Haarlem (Schrijversbuurt)        ,Apartment Jan Campertstraat 50,72 lec videos,"                €1,425 per month            ",72100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2011 KL Haarlem (Stationsbuurt)        ,Apartment Jansweg,42 lec videos,"                €1,100 per month            ",42100,DL Housing Services ,1 room
+            2032 MD Haarlem (Potgieterbuurt)        ,Apartment Adriaan Loosjesstraat 42,90 lec videos,"                €1,595 per month            ",90100,HouseConnect ,3 months
+            2011 BT Haarlem (Burgwal)        ,Apartment Lange Herenvest 32 E,78 lec videos,"                €1,495 per month            ",78100,Van der Schaaf & Kooijmans NVM Makelaars ,3 months
+            2011 WT Haarlem (Vijfhoek)        ,Apartment Lange Bogaardstraat,75 lec videos,"                €1,650 per month            ",75100,Royal City Vastgoed Beheer BV ,3 months
+            2011 RZ Haarlem (Bakenes)        ,Studio Jansstraat,35 lec videos,                €900 per month            ,35100,Wolf Rentals ,1 room
+            2032 LK Haarlem (Van Zeggelenbuurt)        ,Apartment Teding van Berkhoutstraat,89 lec videos,"                €1,395 per month            ",89100,Bosscha Makelaardij ,2 months
+            2036 RK Haarlem (De Burgen)        ,Apartment Engelenburg 297,95 lec videos,"                €1,795 per month            ",95100,Lokaal Makelaardij ,4 months
+            2012 GC Haarlem (Koninginnebuurt)        ,Apartment Cruquiusstraat 21,55 lec videos,"                €1,175 per month            ",55100,Weelde Wonen ,3 months
+            2036 RB Haarlem (De Burgen)        ,Apartment Engelenburg,100 lec videos,"                €1,550 per month            ",100100,EHR Haarlem - Leiden ,4 months
+            2011 DW Haarlem (Rozenprieel-noord)        ,Apartment Essenstraat,33 lec videos,"                €1,150 per month            ",33100,SPiL makelaars ,1 room
+            2012 JD Haarlem (Welgelegen)        ,House Voorhoutstraat 8,178 lec videos,"                €3,250 per month            ",178100,Van der Schaaf & Kooijmans NVM Makelaars ,9 months
+            2011 CG Haarlem (Burgwal)        ,Apartment Spaarne,50 lec videos,"                €1,350 per month            ",50100,Centraal Makelaardij ,1 room
+            2011 PP Haarlem (Binnenstad)        ,Apartment Zoetestraat 25 B,90 lec videos,"                €1,910 per month            ",90100,Van Oosterom Makelaar ,3 months
+            2015 AL Haarlem (Bloemenbuurt)        ,Apartment Narcisplantsoen,75 lec videos,"                €1,450 per month            ",75100,123Wonen Haarlem ,3 months
+            2012 VJ Haarlem (Rozenprieel-noord)        ,Apartment Linschotenstraat,64 lec videos,"                €1,375 per month            ",64100,Centraal Makelaardij ,2 months
+            2021 HA Haarlem (Nelson Mandelabuurt)        ,Apartment Johannes de Breukstraat 1 A,48 lec videos,"                €1,285 per month            ",48100,Interhouse verhuurmakelaars Haarlem ,2 months
+            2031 VR Haarlem (Sportliedenbuurt)        ,Apartment Rie Mastenbroekstraat,65 lec videos,"                €1,350 per month            ",65100,EHR Haarlem - Leiden ,2 months
+            2025 XH Haarlem (Nachtegaalbuurt)        ,House Reigerstraat,110 lec videos,"                €2,000 per month            ",110100,A Plus Apartments ,5 months
+            2011 TV Haarlem (Binnenstad)        ,Apartment Nieuwe Groenmarkt 51 A,69 lec videos,"                €1,725 per month            ",69100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2011 ZX Haarlem (Vijfhoek)        ,House Breestraat 7,67 lec videos,"                €1,545 per month            ",67100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2011 DS Haarlem (Heiliglanden)        ,Apartment Kleine Houtstraat 124,50 lec videos,"                €1,300 per month            ",50100,Weelde Wonen ,2 months
+            2032 GC Haarlem (Van Zeggelenbuurt)        ,Apartment Dr. Schaepmanstraat 45 RD,88 lec videos,"                €1,385 per month            ",88100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2023 XA Haarlem (Kleverpark-zuid)        ,Room Van Ostadestraat,18 lec videos,                €800 per month            ,18100,iRooms and Houses ,1 room
+            2032 NG Haarlem (Oude Amsterdamsebuurt)        ,Apartment Van der Hulststraat,60 lec videos,"                €1,300 per month            ",60100,Overspaern Makelaardij ,2 months
+            2012 NJ Haarlem (Koninginnebuurt)        ,Apartment Wagenweg,70 lec videos,"                €1,295 per month            ",70100,Home of Orange ,3 months
+            2011 EB Haarlem (Heiliglanden)        ,Studio Klein Heiligland,40 lec videos,"                €1,100 per month            ",40100,VRC - Veth Realty & Consultancy BV ,1 room
+            2025 DV Haarlem (Schrijversbuurt)        ,Apartment Marsmanplein 110,70 lec videos,"                €1,425 per month            ",70100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2011 BW Haarlem (Burgwal)        ,Apartment Lange Herenvest 104 C2,50 lec videos,"                €1,150 per month            ",50100,B2 Makelaars ,3 months
+            2021 SE Haarlem (Generaalsbuurt)        ,House Goetzeestraat 28,102 lec videos,"                €2,185 per month            ",102100,Interhouse verhuurmakelaars Haarlem ,4 months
+            2011 EJ Haarlem (Heiliglanden)        ,Apartment Klein Heiligland,101 lec videos,"                €1,995 per month            ",101100,Kroon van Diest Makelaardij ,4 months
+            2015 GX Haarlem (Ramplaankwartier)        ,Apartment Ramplaan 44 A,86 lec videos,"                €1,450 per month            ",86100,VDN Vastgoed BV ,3 months
+            2011 CE Haarlem (Binnenstad)        ,Apartment Spaarne,50 lec videos,"                €1,250 per month            ",50100,123Wonen Haarlem ,2 months
+            2015 CL Haarlem (Veldzigt)        ,Apartment Zijlweg,100 lec videos,"                €1,525 per month            ",100100,Wbos Makelaars ,3 months
+            2011 PP Haarlem (Binnenstad)        ,Apartment Zoetestraat 23 A,90 lec videos,"                €1,575 per month            ",90100,Van der Schaaf & Kooijmans NVM Makelaars ,5 months
+            2012 BX Haarlem (Welgelegen)        ,Apartment Bellevuelaan 91,59 lec videos,"                €1,285 per month            ",59100,Interhouse verhuurmakelaars Haarlem ,2 months
+            2012 GG Haarlem (Koninginnebuurt)        ,Apartment Eerste Emmastraat,60 lec videos,"                €1,100 per month            ",60100,Homecrew ,2 months
+            2011 RZ Haarlem (Bakenes)        ,Apartment Zuider Schoolsteeg,55 lec videos,"                €1,250 per month            ",55100,Haarlem Real Estate ,2 months
+            2011 PN Haarlem (Binnenstad)        ,House Ursulastraat 2,185 lec videos,"                €2,600 per month            ",185100,Lokaal Makelaardij ,5 months
+            2013 GE Haarlem (Hasselaersbuurt)        ,Apartment Ruychaverstraat,55 lec videos,"                €1,125 per month            ",55100,Roomservice ,2 months
+            2011 TR Haarlem (Binnenstad)        ,Apartment Prinsenhof,120 lec videos,"                €1,750 per month            ",120100,Home of Orange ,3 months
+            2011 VR Haarlem (Vijfhoek)        ,Apartment Oude Zijlvest,47 lec videos,"                €1,200 per month            ",47100,Overspaern Makelaardij ,2 months
+            2011 VM Haarlem (Vijfhoek)        ,Apartment Wilhelminastraat 26,90 lec videos,"                €1,495 per month            ",90100,Van der Schaaf & Kooijmans NVM Makelaars ,2 months
+            2021 HM Haarlem (Patrimoniumbuurt)        ,Apartment Schoterweg,50 lec videos,"                €1,250 per month            ",50100,Hamilton Vastgoed ,2 months
+            2011 VH Haarlem (Vijfhoek)        ,Apartment Wilhelminastraat,80 lec videos,"                €1,875 per month            ",80100,Royal City Vastgoed Beheer BV ,3 months
+            2034 LP Haarlem (Kruidenbuurt)        ,Apartment Ierlandstraat,75 lec videos,"                €1,350 per month            ",75100,Viëtor Beheer ,3 months
+            2024 DJ Haarlem (Schotervlieland)        ,House Korteweg 23,78 lec videos,"                €2,095 per month            ",78100,Huizenbalie.nl ,4 months
+            2011 TS Haarlem (Binnenstad)        ,Apartment Kromme Elleboogsteeg 22 B,42 lec videos,"                €1,295 per month            ",42100,Interhouse verhuurmakelaars Haarlem ,2 months
+            2025 DV Haarlem (Schrijversbuurt)        ,Apartment Marsmanplein 154,73 lec videos,"                €1,425 per month            ",73100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2011 GE Haarlem (Vijfhoek)        ,Apartment Gierstraat 38 D,60 lec videos,"                €1,500 per month            ",60100,B2 Makelaars ,3 months
+            2022 CJ Haarlem (Molukkenbuurt)        ,House Obistraat,120 lec videos,"                €1,950 per month            ",120100,123Wonen Haarlem ,6 months
+            2011 HT Haarlem (Binnenstad)        ,Apartment Frankestraat 13,73 lec videos,"                €1,545 per month            ",73100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2031 VM Haarlem (Sportliedenbuurt)        ,Apartment Kick Smitweg,80 lec videos,"                €1,600 per month            ",80100,123Wonen Haarlem ,2 months
+            2011 DP Haarlem (Binnenstad)        ,Apartment Kleine Houtstraat,80 lec videos,"                €1,500 per month            ",80100,A Plus Apartments ,4 months
+            2033 BM Haarlem (Zuiderpolder-noord)        ,House Pal Maleterweg 129,142 lec videos,"                €2,100 per month            ",142100,Mooijekind Vleut Verhuurmakelaars ,6 months
+            2021 EP Haarlem (Frans Halsbuurt)        ,Apartment Berckheydestraat 1 RD,84 lec videos,"                €1,645 per month            ",84100,Interhouse verhuurmakelaars Haarlem ,3 months
+            2011 AG Haarlem (Burgwal)        ,Apartment Spaarnwouderstraat,59 lec videos,"                €1,600 per month            ",59100,Boonstra Heijmeijer Makelaars ,3 months
+            2015 BK Haarlem (Bloemenbuurt)        ,Apartment Zijlweg Zijweg 22 A,95 lec videos,"                €1,250 per month            ",95100,Mooijekind Vleut Verhuurmakelaars ,3 months
+            2021 KB Haarlem (De Goede Hoop)        ,Apartment Spaarndamseweg 282,65 lec videos,"                €1,300 per month            ",65100,ViaDaan ,2 months
+            2012 NN Haarlem (Koninginnebuurt)        ,House Prinses Amaliaplaats,117 lec videos,"                €2,650 per month            ",117100,Hofzicht Makelaars ,5 months
+            2015 CL Haarlem (Veldzigt)        ,Apartment Zijlweg,20 lec videos,                €285 per month            ,20100,Van Der Huizen ,1 room
+            2012 EC Haarlem (Koninginnebuurt)        ,Apartment Tempeliersstraat,70 lec videos,"                €1,650 per month            ",70100,Huisportaal.nl ,3 months
+            2011 XL Haarlem (Vijfhoek)        ,Apartment Botermarkt 29 RD,80 lec videos,"                €1,350 per month            ",80100,ViaDaan ,3 months
+            2011 XL Haarlem (Vijfhoek)        ,Apartment Botermarkt 9,45 lec videos,"                €1,250 per month            ",45100,ViaDaan ,2 months
+            2032 KA Haarlem (Van Zeggelenbuurt)        ,Apartment Van Zeggelenplein 23,45 lec videos,"                €1,125 per month            ",45100,VK Makelaars ,2 months
+            2033 PJ Haarlem (Verzetsliedenbuurt)        ,House Hannie Schaftstraat,125 lec videos,"                €1,850 per month            ",125100,People On The Move Expat Brokers ,4 months
+            2033 JG Haarlem (Karolingenbuurt)        ,Apartment Schalkwijkerstraat,102 lec videos,"                €1,275 per month            ",102100,Teer Makelaars ,5 months
+            2024 ER Haarlem (Planetenbuurt)        ,Apartment Planetenlaan 28 II,66 lec videos,"                €1,600 per month            ",66100,VK Makelaars ,4 months
+            2012 BX Haarlem (Welgelegen)        ,Apartment Bellevuelaan 147,128 lec videos,"                €1,890 per month            ",128100,Mooijekind Vleut Verhuurmakelaars ,3 months
