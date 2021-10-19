@@ -179,3 +179,242 @@ university,name of Course,lectures videos,price of Course,students enrolled,name
             2033 JG Haarlem (Karolingenbuurt)        ,Apartment Schalkwijkerstraat,102 lec videos,"                €1,275 per month            ",102100,Teer Makelaars ,5 months
             2024 ER Haarlem (Planetenbuurt)        ,Apartment Planetenlaan 28 II,66 lec videos,"                €1,600 per month            ",66100,VK Makelaars ,4 months
             2012 BX Haarlem (Welgelegen)        ,Apartment Bellevuelaan 147,128 lec videos,"                €1,890 per month            ",128100,Mooijekind Vleut Verhuurmakelaars ,3 months
+            5621 DA Eindhoven (Woensel-West)        ,Apartment Grenenhout 8 138,76 lec videos,"                €1,245 per month            ",76100,Home Verhuur ,4 months
+            5611 HW Eindhoven (Witte Dame)        ,Apartment De Regent,125 lec videos,"                €1,650 per month            ",125100,Huurinc Housing ,3 months
+            5644 GH Eindhoven (Gerardusplein)        ,House Roostenlaan,135 lec videos,"                €1,575 per month            ",135100,Lightcity Housing ,5 months
+            5627 DN Eindhoven (Achtse Barrier-Spaaihoef)        ,House Heraultlaan,121 lec videos,"                €1,650 per month            ",121100,Stoit Groep ,5 months
+            5611 VK Eindhoven (Irisbuurt)        ,Apartment Tongelresestraat,80 lec videos,"                €1,375 per month            ",80100,Rotsvast Eindhoven ,3 months
+            5612 CJ Eindhoven (Gildebuurt)        ,Apartment Kruisstraat,42 lec videos,"                €1,325 per month            ",42100,Lightcity Housing ,2 months
+            5622 AB Eindhoven (Kronehoef)        ,Apartment Kloosterdreef,59 lec videos,"                €1,275 per month            ",59100,Lightcity Housing ,3 months
+            5612 CJ Eindhoven (Gildebuurt)        ,Apartment Kruisstraat,41 lec videos,"                €1,325 per month            ",41100,Lightcity Housing ,2 months
+            5632 TW Eindhoven (Heesterakker)        ,Room Aalsbroek,20 lec videos,                €475 per month            ,20100,Lightcity Housing ,2 months
+            5652 JS Eindhoven (Het Ven)        ,Apartment Klundertstraat 16,30 lec videos,                €735 per month            ,30100,ViaDaan ,2 months
+            5611 GJ Eindhoven (Binnenstad)        ,Apartment Kerkstraat,61 lec videos,"                €1,100 per month            ",61100,Budget Housing ,3 months
+            5611 NA Eindhoven (Binnenstad)        ,Apartment Stratumsedijk,67 lec videos,"                €1,400 per month            ",67100,Interhouse verhuurmakelaars Eindhoven ,2 months
+            5615 AE Eindhoven (Bloemenplein)        ,Apartment Biesterweg,76 lec videos,"                €1,499 per month            ",76100,Huurinc Housing ,3 months
+            5611 GJ Eindhoven (Binnenstad)        ,Apartment Kerkstraat,61 lec videos,"                €1,100 per month            ",61100,DHVC Vastgoed ,3 months
+            5614 HC Eindhoven (Tuindorp)        ,Apartment Heezerweg,45 lec videos,                €650 per month            ,45100,Rotsvast Eindhoven ,2 months
+            5613 LV Eindhoven (Tuindorp)        ,Apartment Petrus Dondersstraat,100 lec videos,"                €1,550 per month            ",100100,HouseHunting Eindhoven ,3 months
+            5642 SC Eindhoven (Tongelresche Akkers)        ,House Houtblazersstraat,105 lec videos,"                €1,500 per month            ",105100,123Wonen Eindhoven ,4 months
+            5658 AA Eindhoven (Zandrijk)        ,House Zandoever,361 lec videos,"                €3,250 per month            ",361100,Brick Vastgoed ,5 months
+            5616 RE Eindhoven (Schoot)        ,Apartment Schootsestraat 58 C,40 lec videos,                €900 per month            ,40100,KI-Makelaardij ,2 months
+            5643 AR Eindhoven (Kruidenbuurt)        ,Apartment Korianderstraat 107,40 lec videos,                €815 per month            ,40100,W&D Vastgoed ,2 months
+            5632 LP Eindhoven (Vaartbroek)        ,Apartment de Koppele,87 lec videos,"                €1,300 per month            ",87100,Stoit Groep ,4 months
+            5612 WE Eindhoven (Fellenoord)        ,Apartment Pastoor Petersstraat,72 lec videos,"                €1,495 per month            ",72100,Zuid Beheer B.V. ,3 months
+            5611 AM Eindhoven (Binnenstad)        ,Apartment Nieuwe Emmasingel,104 lec videos,"                €1,695 per month            ",104100,Huurinc Housing ,3 months
+            5611 VR Eindhoven (Irisbuurt)        ,House Havensingel,108 lec videos,"                €2,195 per month            ",108100,Zuid Beheer B.V. ,5 months
+            5615 AE Eindhoven (Bloemenplein)        ,Apartment Biesterweg,55 lec videos,"                €1,025 per month            ",55100,Rotsvast Eindhoven ,2 months
+            5611 GW Eindhoven (Binnenstad)        ,Apartment Krabbendampad,100 lec videos,"                €1,250 per month            ",100100,Regio56 Makelaars & Huisvesting ,3 months
+            5631 DD Eindhoven (Karpen)        ,House Floresstraat,304 lec videos,"                €3,250 per month            ",304100,Stoit Groep ,6 months
+            5643 TP Eindhoven (Burghplan)        ,Apartment Geldropseweg,65 lec videos,                €845 per month            ,65100,Friendly Housing ,2 months
+            5645 LH Eindhoven (Puttense Dreef)        ,House Carel Willinkstraat,160 lec videos,"                €2,250 per month            ",160100,Rotsvast Eindhoven ,4 months
+            5654 AW Eindhoven (Rapelenburg)        ,House Lottistraat,113 lec videos,"                €1,150 per month            ",113100,Van Santvoort Makelaars Eindhoven ,6 months
+            5658 RK Eindhoven (Waterrijk)        ,House Waterwereld,128 lec videos,"                €2,000 per month            ",128100,HouseHunting Eindhoven ,5 months
+            5611 AM Eindhoven (Binnenstad)        ,Apartment Nieuwe Emmasingel 73,91 lec videos,"                €1,450 per month            ",91100,De Run Trading B.V. ,2 months
+            5615 CB Eindhoven (Bloemenplein)        ,Apartment Aalsterweg,42 lec videos,                €945 per month            ,42100,HouseHunting Eindhoven ,2 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,108 lec videos,"                €1,950 per month            ",108100,Zuid Beheer B.V. ,4 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,107 lec videos,"                €1,950 per month            ",107100,Zuid Beheer B.V. ,4 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,108 lec videos,"                €1,950 per month            ",108100,Zuid Beheer B.V. ,4 months
+            5652 XN Eindhoven (Lievendaal)        ,Apartment Welschapsedijk,69 lec videos,                €995 per month            ,69100,DHVC Vastgoed ,3 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,107 lec videos,"                €1,950 per month            ",107100,Zuid Beheer B.V. ,4 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,117 lec videos,"                €2,125 per month            ",117100,Zuid Beheer B.V. ,4 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,129 lec videos,"                €2,325 per month            ",129100,Zuid Beheer B.V. ,4 months
+            5613 EA Eindhoven (Villapark)        ,Apartment Treurenburgstraat,111 lec videos,"                €1,300 per month            ",111100,Van Santvoort Makelaars Eindhoven ,5 months
+            5615 LA Eindhoven (Schrijversbuurt)        ,Apartment Gestelsestraat,80 lec videos,"                €1,400 per month            ",80100,Huisportaal.nl ,3 months
+            5644 TR Eindhoven (Genneperzijde)        ,Apartment Boutenslaan,65 lec videos,"                €1,250 per month            ",65100,Smart Letting ,2 months
+            5611 CM Eindhoven (Binnenstad)        ,Apartment Tramstraat 21 01,135 lec videos,"                €2,195 per month            ",135100,My Housing ,4 months
+"            5611 HS Eindhoven (Eliasterrein, Vonderkwartier)        ",Room Julianastraat,12 lec videos,                €350 per month            ,12100,Friendly Housing ,1 room
+            5611 CB Eindhoven (Irisbuurt)        ,Apartment Vestdijk,35 lec videos,                €825 per month            ,35100,Zuid Beheer B.V. ,1 room
+            5611 HJ Eindhoven (Bergen)        ,Apartment Prins Hendrikstraat,50 lec videos,"                €1,450 per month            ",50100,Rotsvast Eindhoven ,2 months
+            5623 BB Eindhoven (Rapenland)        ,Apartment Dr Cuyperslaan,54 lec videos,"                €1,150 per month            ",54100,Brick Vastgoed ,2 months
+            5612 BA Eindhoven (Gildebuurt)        ,Apartment Veldmaarschalk Montgomerylaan,86 lec videos,"                €1,495 per month            ",86100,Rotsvast Eindhoven ,3 months
+            5613 EX Eindhoven (Villapark)        ,Apartment Dommelhoefstraat,75 lec videos,"                €1,350 per month            ",75100,Brick Vastgoed ,3 months
+            5629 PL Eindhoven (Blixembosch-Oost)        ,House Sartrelaan,172 lec videos,"                €1,795 per month            ",172100,Budget Housing ,4 months
+            5628 KE Eindhoven (Woenselse Heide)        ,Apartment Lauwerszeeweg 21,88 lec videos,"                €1,150 per month            ",88100,ViaDaan ,3 months
+            5616 RN Eindhoven (Philipsdorp)        ,Apartment Gagelstraat,145 lec videos,"                €1,595 per month            ",145100,Regio56 Makelaars & Huisvesting ,3 months
+            5621 GK Eindhoven (Woensel-West)        ,Room Stevinstraat,10 lec videos,                €595 per month            ,10100,Rotsvast Eindhoven ,1 room
+            5615 BD Eindhoven (Bloemenplein)        ,Room Narcisstraat 4,13 lec videos,                €550 per month            ,13100,Bloomington Real Estate ,1 room
+            5613 LM Eindhoven (Irisbuurt)        ,Apartment Geldropseweg,82 lec videos,"                €1,100 per month            ",82100,HouseHunting Eindhoven ,1 room
+            5654 AZ Eindhoven (Rapelenburg)        ,Studio Franz Leharplein,35 lec videos,"                €1,025 per month            ",35100,Census Real Estate ,2 months
+            5613 DV Eindhoven (Villapark)        ,Apartment Tongelresestraat,100 lec videos,"                €1,340 per month            ",100100,Brick Vastgoed ,3 months
+            5651 HA Eindhoven (Zwaanstraat)        ,House Beeldbuisring,162 lec videos,"                €2,100 per month            ",162100,Rotsvast Eindhoven ,6 months
+            5653 PJ Eindhoven (Genderbeemd)        ,House Aldendriel,150 lec videos,"                €1,600 per month            ",150100,Brick Vastgoed ,4 months
+            5612 HC Eindhoven (Limbeek-Noord)        ,Apartment Boschdijk,66 lec videos,"                €1,250 per month            ",66100,Brick Vastgoed ,3 months
+            5611 SG Eindhoven (Irisbuurt)        ,Apartment Geldropseweg,75 lec videos,"                €1,275 per month            ",75100,Brick Vastgoed ,3 months
+            5643 TS Eindhoven (Burghplan)        ,Apartment Geldropseweg,57 lec videos,"                €1,100 per month            ",57100,Brick Vastgoed ,2 months
+            5623 LJ Eindhoven (Generalenbuurt)        ,Apartment Europalaan,70 lec videos,"                €1,400 per month            ",70100,Regio56 Makelaars & Huisvesting ,3 months
+            5611 KM Eindhoven (Bergen)        ,Apartment Paradijslaan,100 lec videos,"                €1,550 per month            ",100100,nextmove makelaars ,3 months
+            5654 ND Eindhoven (Bennekel-Oost)        ,Studio Hoogstraat 371 1,15 lec videos,                €500 per month            ,15100,ViaDaan ,1 room
+            5654 ND Eindhoven (Bennekel-Oost)        ,Studio Hoogstraat 371 D,27 lec videos,                €803 per month            ,27100,ViaDaan ,2 months
+            5623 LK Eindhoven (Generalenbuurt)        ,Apartment Europalaan,75 lec videos,"                €1,150 per month            ",75100,Van Santvoort Makelaars Eindhoven ,3 months
+"            5616 AX Eindhoven (Eliasterrein, Vonderkwartier)        ",House Anna Paulownastraat,158 lec videos,"                €1,695 per month            ",158100,Tenant Huurwoningen ,5 months
+            5617 AL Eindhoven (Strijp S)        ,Apartment Philitelaan,72 lec videos,"                €1,250 per month            ",72100,Van Santvoort Makelaars Eindhoven ,1 room
+            5615 PC Eindhoven (Schrijversbuurt)        ,Apartment Hoogstraat,70 lec videos,"                €1,375 per month            ",70100,HouseHunting Eindhoven ,3 months
+            5614 BM Eindhoven (Tuindorp)        ,House St Christoffelstraat,136 lec videos,"                €2,950 per month            ",136100,Rotsvast Eindhoven ,3 months
+            5617 BK Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,106 lec videos,"                €1,950 per month            ",106100,Zuid Beheer B.V. ,4 months
+            5611 NA Eindhoven (Binnenstad)        ,Apartment Stratumsedijk,73 lec videos,"                €1,295 per month            ",73100,Budget Housing ,2 months
+            5611 HC Eindhoven (Bergen)        ,Apartment Willemstraat,70 lec videos,"                €1,450 per month            ",70100,GOETH Vastgoed ,3 months
+            5611 AM Eindhoven (Binnenstad)        ,Apartment Nieuwe Emmasingel,50 lec videos,"                €1,280 per month            ",50100,Rotsvast Eindhoven ,1 room
+            5611 AK Eindhoven (Binnenstad)        ,Apartment Volderhof,80 lec videos,"                €1,450 per month            ",80100,Stoit Groep ,2 months
+            5651 GE Eindhoven (Wielewaal)        ,House Tegenbosch,650 lec videos,"                €15,000 per month            ",650100,Rotsvast Eindhoven ,14 months
+            5613 GC Eindhoven (Lakerlopen)        ,Apartment Jeroen Boschlaan,41 lec videos,"                €1,100 per month            ",41100,HouseHunting Eindhoven ,2 months
+            5612 DB Eindhoven (Woenselse Watermolen)        ,Apartment Borchmolen,90 lec videos,"                €1,350 per month            ",90100,Kievit Makelaardij ,3 months
+            5628 NN Eindhoven (Tempel)        ,House Dammestraat,138 lec videos,"                €1,700 per month            ",138100,Friendly Housing ,7 months
+            5658 HX Eindhoven (Grasrijk)        ,House Grasdreef,107 lec videos,"                €1,650 per month            ",107100,Rotsvast Eindhoven ,5 months
+            5617 BB Eindhoven (Strijp S)        ,Apartment Torenallee,79 lec videos,"                €1,750 per month            ",79100,Stoit Groep ,3 months
+            5617 BS Eindhoven (Strijp S)        ,House Torenallee,74 lec videos,"                €1,495 per month            ",74100,Zuid Beheer B.V. ,5 months
+            5658 HR Eindhoven (Grasrijk)        ,House Graslinnen 3,91 lec videos,"                €1,325 per month            ",91100,Tenant Huurwoningen ,3 months
+            5623 LT Eindhoven (Generalenbuurt)        ,Studio Generaal Coenderslaan,28 lec videos,                €875 per month            ,28100,Budget Housing ,1 room
+"            5616 BV Eindhoven (Eliasterrein, Vonderkwartier)        ",Apartment Graaf Adolfstraat,97 lec videos,"                €1,225 per month            ",97100,DHVC Vastgoed ,3 months
+            5616 GL Eindhoven (Philipsdorp)        ,Apartment Strijpsestraat,60 lec videos,"                €1,095 per month            ",60100,DHVC Vastgoed ,3 months
+            5616 NR Eindhoven (Philipsdorp)        ,Apartment Iepenlaan,55 lec videos,"                €1,150 per month            ",55100,HouseHunting Eindhoven ,2 months
+            5611 VB Eindhoven (Irisbuurt)        ,Apartment Bleekstraat 1 BG,55 lec videos,                €950 per month            ,55100,KI-Makelaardij ,1 room
+            5632 LK Eindhoven (Vaartbroek)        ,Apartment de Koppele,90 lec videos,"                €1,340 per month            ",90100,Domica Eindhoven ,4 months
+            5621 GB Eindhoven (Woensel-West)        ,Room Juliusstraat,24 lec videos,                €615 per month            ,24100,DHVC Vastgoed ,2 months
+            5612 KB Eindhoven (Hemelrijken)        ,Apartment Nieuwe Fellenoord,75 lec videos,"                €1,450 per month            ",75100,Kievit Makelaardij ,3 months
+            5643 WG Eindhoven (Burghplan)        ,Apartment St Petrus Canisiuslaan,45 lec videos,                €895 per month            ,45100,Walther Vastgoedbeheer ,2 months
+            5611 XD Eindhoven (Witte Dame)        ,Apartment Lichtstraat,120 lec videos,"                €1,800 per month            ",120100,Stones Housing ,3 months
+            5615 ST Eindhoven (Oude Spoorbaan)        ,Apartment Karel de Grotelaan,75 lec videos,"                €1,425 per month            ",75100,Stones Housing ,3 months
+            5658 GD Eindhoven (Grasrijk)        ,House Grasveld,100 lec videos,"                €1,695 per month            ",100100,Budget Housing ,3 months
+            5627 LC Eindhoven (Achtse Barrier-Gunterslaer)        ,Apartment Perpignanlaan,70 lec videos,"                €1,300 per month            ",70100,HouseHunting Eindhoven ,3 months
+            5658 EW Eindhoven (Grasrijk)        ,House Grasvogel,124 lec videos,"                €1,850 per month            ",124100,Stoit Groep ,5 months
+            5645 JT Eindhoven (Burghplan)        ,House van Renesseweg,75 lec videos,"                €1,395 per month            ",75100,Budget Housing ,4 months
+            5654 AZ Eindhoven (Rapelenburg)        ,Apartment Franz Leharplein,70 lec videos,"                €1,350 per month            ",70100,Regio56 Makelaars & Huisvesting ,2 months
+            5654 AZ Eindhoven (Rapelenburg)        ,Apartment Franz Leharplein,59 lec videos,"                €1,500 per month            ",59100,Regio56 Makelaars & Huisvesting ,2 months
+            5654 AA Eindhoven (Rapelenburg)        ,House Scheidingstraat,100 lec videos,"                €2,550 per month            ",100100,Rotsvast Eindhoven ,3 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,77 lec videos,"                €1,495 per month            ",77100,Stoit Groep ,3 months
+            5658 ER Eindhoven (Grasrijk)        ,Apartment Grasbaan,110 lec videos,"                €1,575 per month            ",110100,HouseHunting Eindhoven ,3 months
+            5615 SG Eindhoven (Oude Spoorbaan)        ,Apartment Hertog Jan I Laan,87 lec videos,"                €1,475 per month            ",87100,Rotsvast Eindhoven ,3 months
+            5612 HC Eindhoven (Limbeek-Noord)        ,Apartment Boschdijk,65 lec videos,"                €1,100 per month            ",65100,Friendly Housing ,3 months
+            5611 HW Eindhoven (Witte Dame)        ,Apartment De Regent,89 lec videos,"                €1,850 per month            ",89100,Stoit Groep ,3 months
+            5616 NR Eindhoven (Philipsdorp)        ,Apartment Iepenlaan,55 lec videos,"                €1,150 per month            ",55100,HouseHunting Eindhoven ,2 months
+"            5611 GV Eindhoven (Eliasterrein, Vonderkwartier)        ",Apartment Mauritsstraat,55 lec videos,"                €1,375 per month            ",55100,Lightcity Housing ,3 months
+            5611 EH Eindhoven (Binnenstad)        ,Apartment Smalle Haven,132 lec videos,"                €2,775 per month            ",132100,HouseHunting Eindhoven ,3 months
+            5611 BG Eindhoven (Philipsdorp)        ,Apartment Hoog Gagel,91 lec videos,"                €1,800 per month            ",91100,Best Intermediair Vastgoed Makelaardij ,3 months
+            5622 AA Eindhoven (Kronehoef)        ,Apartment Kloosterdreef,73 lec videos,"                €1,350 per month            ",73100,Budget Housing ,3 months
+            5658 SH Eindhoven (Waterrijk)        ,House Waterfront,117 lec videos,"                €1,475 per month            ",117100,Budget Housing ,4 months
+            5612 CT Eindhoven (Gildebuurt)        ,Apartment Kloosterdreef 39,82 lec videos,"                €1,275 per month            ",82100,Tenant Huurwoningen ,3 months
+            5611 BB Eindhoven (Binnenstad)        ,Apartment Stationsplein,105 lec videos,"                €1,795 per month            ",105100,Stoit Groep ,3 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,60 lec videos,"                €1,450 per month            ",60100,GOETH Vastgoed ,3 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,53 lec videos,"                €1,350 per month            ",53100,GOETH Vastgoed ,2 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,68 lec videos,"                €1,450 per month            ",68100,GOETH Vastgoed ,2 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,62 lec videos,"                €1,450 per month            ",62100,GOETH Vastgoed ,2 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,60 lec videos,"                €1,450 per month            ",60100,GOETH Vastgoed ,3 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,54 lec videos,"                €1,350 per month            ",54100,GOETH Vastgoed ,2 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,40 lec videos,"                €1,200 per month            ",40100,GOETH Vastgoed ,2 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,58 lec videos,"                €1,375 per month            ",58100,GOETH Vastgoed ,2 months
+            5613 CA Eindhoven (Villapark)        ,Apartment Fazantlaan,45 lec videos,"                €1,250 per month            ",45100,GOETH Vastgoed ,2 months
+            5615 CP Eindhoven (Looiakkers)        ,Apartment Le Sage ten Broeklaan,59 lec videos,"                €1,450 per month            ",59100,HouseHunting Eindhoven ,2 months
+            5615 CB Eindhoven (Bloemenplein)        ,Apartment Aalsterweg,45 lec videos,"                €1,150 per month            ",45100,Rotsvast Eindhoven ,2 months
+            5611 VA Eindhoven (Irisbuurt)        ,Apartment Kanaaldijk-Zuid,85 lec videos,"                €1,550 per month            ",85100,Rotsvast Eindhoven ,2 months
+            5621 JB Eindhoven (Woensel-West)        ,Apartment Boschdijk 361,135 lec videos,"                €1,995 per month            ",135100,Hanne Geenen Management ,4 months
+            5621 HB Eindhoven (Woensel-West)        ,House Wenckenbachstraat 2,75 lec videos,"                €1,545 per month            ",75100,Hanne Geenen Management ,3 months
+"            5641 NB Eindhoven (Muschberg, Geestenberg)        ",House Haagbeemd,120 lec videos,"                €1,395 per month            ",120100,Rotsvast Eindhoven ,5 months
+            5613 SG Eindhoven (Lakerlopen)        ,Apartment Picushof,160 lec videos,"                €1,449 per month            ",160100,Domica Eindhoven ,3 months
+            5615 SK Eindhoven (Oude Spoorbaan)        ,Apartment Isabellastraat,80 lec videos,"                €1,450 per month            ",80100,Stones Housing ,3 months
+            5612 BA Eindhoven (Fellenoord)        ,Apartment Veldmaarschalk Montgomerylaan,125 lec videos,"                €1,800 per month            ",125100,Huurinc Housing ,3 months
+            5629 PG Eindhoven (Blixembosch-Oost)        ,House Molièrelaan,113 lec videos,"                €1,650 per month            ",113100,Budget Housing ,4 months
+            5622 KR Eindhoven (Mensfort)        ,House Drijffhoutstraat,108 lec videos,"                €1,495 per month            ",108100,Budget Housing ,5 months
+            5611 AZ Eindhoven (Binnenstad)        ,Apartment Emmasingel,135 lec videos,"                €1,750 per month            ",135100,Interhouse verhuurmakelaars Eindhoven ,3 months
+            5615 PG Eindhoven (Oude Spoorbaan)        ,Apartment Amsberghof,97 lec videos,"                €1,600 per month            ",97100,Rotsvast Eindhoven ,3 months
+            5643 AL Eindhoven (Kruidenbuurt)        ,House Leenderweg,114 lec videos,"                €1,545 per month            ",114100,Budget Housing ,5 months
+            5644 JB Eindhoven (Eikenburg)        ,House Pasteurlaan,168 lec videos,"                €2,975 per month            ",168100,Rotsvast Eindhoven ,7 months
+            5651 HA Eindhoven (Zwaanstraat)        ,Apartment Beeldbuisring,98 lec videos,"                €1,550 per month            ",98100,Zuid Beheer B.V. ,2 months
+            5611 XD Eindhoven (Witte Dame)        ,Apartment Lichtstraat,95 lec videos,"                €1,595 per month            ",95100,Housing Totaal ,3 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,101 lec videos,"                €1,635 per month            ",101100,Zuid Beheer B.V. ,3 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,104 lec videos,"                €1,699 per month            ",104100,Zuid Beheer B.V. ,3 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,117 lec videos,"                €1,895 per month            ",117100,Zuid Beheer B.V. ,4 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,104 lec videos,"                €1,699 per month            ",104100,Zuid Beheer B.V. ,3 months
+            5617 BB Eindhoven (Strijp S)        ,Apartment Torenallee,102 lec videos,"                €1,595 per month            ",102100,Zuid Beheer B.V. ,4 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,101 lec videos,"                €1,635 per month            ",101100,Zuid Beheer B.V. ,3 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,101 lec videos,"                €1,635 per month            ",101100,Zuid Beheer B.V. ,3 months
+            5617 BH Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,99 lec videos,"                €1,605 per month            ",99100,Zuid Beheer B.V. ,3 months
+            5644 NR Eindhoven (Gerardusplein)        ,House St Gerarduslaan,325 lec videos,"                €2,500 per month            ",325100,Stones Housing ,6 months
+            5613 LN Eindhoven (Tuindorp)        ,Studio Geldropseweg,40 lec videos,                €745 per month            ,40100,Friendly Housing ,1 room
+            5613 EA Eindhoven (Villapark)        ,Apartment Treurenburgstraat,78 lec videos,"                €1,150 per month            ",78100,Van Santvoort Makelaars Eindhoven ,4 months
+            5611 EH Eindhoven (Binnenstad)        ,Apartment Smalle Haven,136 lec videos,"                €3,250 per month            ",136100,Rotsvast Eindhoven ,3 months
+            5632 KD Eindhoven (Vaartbroek)        ,House Tarwelaan,110 lec videos,"                €1,450 per month            ",110100,Budget Housing ,5 months
+            5624 NJ Eindhoven (Driehoeksbos)        ,House Simplonpas,169 lec videos,"                €1,995 per month            ",169100,Rotsvast Eindhoven ,5 months
+            5644 BJ Eindhoven (Eikenburg)        ,House Floralaan West,154 lec videos,"                €2,750 per month            ",154100,Michiel Stolker Real Estate ,6 months
+            5617 BB Eindhoven (Strijp S)        ,Apartment Torenallee,96 lec videos,"                €1,875 per month            ",96100,Rotsvast Eindhoven ,3 months
+            5658 EP Eindhoven (Grasrijk)        ,Apartment Grasbaan,92 lec videos,"                €1,495 per month            ",92100,Housing Totaal ,3 months
+            5614 HD Eindhoven (Tuindorp)        ,Apartment Heezerweg,80 lec videos,"                €1,075 per month            ",80100,Budget Housing ,2 months
+            5623 EM Eindhoven (Rapenland)        ,Apartment Dupuislaan,73 lec videos,"                €1,250 per month            ",73100,Budget Housing ,3 months
+            5658 SM Eindhoven (Waterrijk)        ,House Waterfront,116 lec videos,"                €1,995 per month            ",116100,Lightcity Housing ,5 months
+            5611 KS Eindhoven (Bergen)        ,House Zwembadweg 21,150 lec videos,"                €2,450 per month            ",150100,My Housing ,5 months
+            5612 EP Eindhoven (Gildebuurt)        ,House Bakkerstraat,140 lec videos,"                €1,995 per month            ",140100,Budget Housing ,3 months
+            5611 VA Eindhoven (Irisbuurt)        ,Apartment Kanaaldijk-Zuid,152 lec videos,"                €2,400 per month            ",152100,Friendly Housing ,5 months
+            5611 BJ Eindhoven (Witte Dame)        ,Apartment Lichttoren,69 lec videos,"                €1,600 per month            ",69100,Stoit Groep ,2 months
+            5644 SH Eindhoven (Genneperzijde)        ,Apartment Herman Gorterlaan,70 lec videos,                €950 per month            ,70100,Van Santvoort Makelaars Eersel ,2 months
+            5611 AZ Eindhoven (Binnenstad)        ,Apartment Emmasingel,125 lec videos,"                €2,330 per month            ",125100,Stones Housing ,3 months
+            5629 PV Eindhoven (Blixembosch-Oost)        ,Apartment Ouverture,95 lec videos,"                €1,225 per month            ",95100,RNC Wonen ,3 months
+            5615 CP Eindhoven (Looiakkers)        ,Apartment Le Sage ten Broeklaan,55 lec videos,"                €1,190 per month            ",55100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 XB Eindhoven (Witte Dame)        ,Apartment Lichtstraat 15,137 lec videos,"                €1,704 per month            ",137100,vb&t Verhuurmakelaars ,4 months
+            5644 TG Eindhoven (Genneperzijde)        ,House Herman Heyermanslaan,162 lec videos,"                €2,500 per month            ",162100,Rotsvast Eindhoven ,5 months
+            5611 KR Eindhoven (Bergen)        ,House Paradijslaan,221 lec videos,"                €1,950 per month            ",221100,Rotsvast Eindhoven ,6 months
+            5611 VA Eindhoven (Irisbuurt)        ,Apartment Kanaaldijk-Zuid,82 lec videos,"                €1,595 per month            ",82100,Jeco Real Estate ,3 months
+            5611 AZ Eindhoven (Binnenstad)        ,Apartment Emmasingel,135 lec videos,"                €1,495 per month            ",135100,Interhouse verhuurmakelaars Eindhoven ,3 months
+            5611 HC Eindhoven (Bergen)        ,Apartment Willemstraat,60 lec videos,"                €1,225 per month            ",60100,GOETH Vastgoed ,2 months
+            5611 HC Eindhoven (Bergen)        ,Studio Willemstraat,27 lec videos,                €895 per month            ,27100,GOETH Vastgoed ,1 room
+            5611 HC Eindhoven (Bergen)        ,Studio Willemstraat,39 lec videos,"                €1,050 per month            ",39100,GOETH Vastgoed ,1 room
+            5611 HC Eindhoven (Bergen)        ,Apartment Willemstraat,62 lec videos,"                €1,250 per month            ",62100,GOETH Vastgoed ,2 months
+            5611 HC Eindhoven (Bergen)        ,Studio Willemstraat,29 lec videos,                €925 per month            ,29100,GOETH Vastgoed ,1 room
+            5611 HC Eindhoven (Bergen)        ,Studio Willemstraat,28 lec videos,                €895 per month            ,28100,GOETH Vastgoed ,1 room
+            5611 HC Eindhoven (Bergen)        ,Apartment Willemstraat,76 lec videos,"                €1,295 per month            ",76100,GOETH Vastgoed ,3 months
+            5611 HC Eindhoven (Bergen)        ,Apartment Willemstraat,57 lec videos,"                €1,175 per month            ",57100,GOETH Vastgoed ,2 months
+"            5641 PR Eindhoven (Muschberg, Geestenberg)        ",House Schans,165 lec videos,"                €1,575 per month            ",165100,Huurinc Housing ,6 months
+            5623 RE Eindhoven (Oude Toren)        ,Apartment Scottlaan,141 lec videos,"                €1,900 per month            ",141100,Zuid Beheer B.V. ,4 months
+            5632 LM Eindhoven (Vaartbroek)        ,Apartment de Koppele 337,88 lec videos,"                €1,250 per month            ",88100,ViaDaan ,3 months
+            5611 EC Eindhoven (Binnenstad)        ,Apartment Markt,110 lec videos,"                €1,325 per month            ",110100,Rotsvast Eindhoven ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,108 lec videos,"                €1,485 per month            ",108100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,79 lec videos,"                €1,385 per month            ",79100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,108 lec videos,"                €1,485 per month            ",108100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,54 lec videos,"                €1,080 per month            ",54100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,86 lec videos,"                €1,460 per month            ",86100,Van Santvoort Makelaars Eindhoven ,2 months
+            5629 RC Eindhoven (Blixembosch-Oost)        ,House Count Basiegracht,279 lec videos,"                €3,495 per month            ",279100,Zuid Beheer B.V. ,5 months
+            5614 HZ Eindhoven (Joriskwartier)        ,Apartment Pastoor Harkxplein,114 lec videos,"                €1,975 per month            ",114100,Rotsvast Eindhoven ,2 months
+            5611 SG Eindhoven (Irisbuurt)        ,Apartment Geldropseweg 139,74 lec videos,"                €1,195 per month            ",74100,ViaDaan ,3 months
+            5617 BK Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,107 lec videos,"                €1,950 per month            ",107100,Zuid Beheer B.V. ,4 months
+            5617 BK Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,106 lec videos,"                €1,950 per month            ",106100,Zuid Beheer B.V. ,4 months
+            5617 BK Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,128 lec videos,"                €2,325 per month            ",128100,Zuid Beheer B.V. ,4 months
+            5617 BK Eindhoven (Strijp S)        ,Apartment Ir Kalffstraat,117 lec videos,"                €2,125 per month            ",117100,Zuid Beheer B.V. ,4 months
+            5611 XB Eindhoven (Witte Dame)        ,Apartment Lichtstraat 41,101 lec videos,"                €1,210 per month            ",101100,vb&t Verhuurmakelaars ,3 months
+            5611 CZ Eindhoven (Binnenstad)        ,Apartment Vestdijk,116 lec videos,"                €2,500 per month            ",116100,Rotsvast Eindhoven ,3 months
+            5611 AZ Eindhoven (Binnenstad)        ,Apartment Emmasingel,75 lec videos,"                €1,595 per month            ",75100,Jeco Real Estate ,2 months
+            5615 NZ Eindhoven (Oude Spoorbaan)        ,Apartment Goudvisstraat,93 lec videos,"                €1,550 per month            ",93100,Holland Housing Center ,3 months
+            5615 NZ Eindhoven (Oude Spoorbaan)        ,Apartment Goudvisstraat 52,95 lec videos,"                €1,550 per month            ",95100,Holland Housing Center ,3 months
+            5611 HW Eindhoven (Witte Dame)        ,Apartment De Regent,140 lec videos,"                €2,500 per month            ",140100,Stones Housing ,3 months
+            5611 XP Eindhoven (Witte Dame)        ,Apartment Clausplein,174 lec videos,"                €1,995 per month            ",174100,Friendly Housing ,4 months
+            5643 RR Eindhoven (Burghplan)        ,Apartment Saenredamstraat,90 lec videos,"                €1,345 per month            ",90100,SMART Housing & Makelaars ,3 months
+            5613 EM Eindhoven (Villapark)        ,Apartment Dommelhoefstraat,160 lec videos,"                €1,850 per month            ",160100,Zuid Beheer B.V. ,4 months
+            5615 NZ Eindhoven (Oude Spoorbaan)        ,Apartment Goudvisstraat,93 lec videos,"                €1,550 per month            ",93100,Zuid Beheer B.V. ,3 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,79 lec videos,"                €1,420 per month            ",79100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,59 lec videos,"                €1,180 per month            ",59100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,108 lec videos,"                €1,510 per month            ",108100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,50 lec videos,"                €1,100 per month            ",50100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,86 lec videos,"                €1,460 per month            ",86100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,58 lec videos,"                €1,160 per month            ",58100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,50 lec videos,"                €1,100 per month            ",50100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,50 lec videos,"                €1,100 per month            ",50100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NS Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5611 NR Eindhoven (Elzent-Noord)        ,Apartment Bomanshof,63 lec videos,"                €1,260 per month            ",63100,Van Santvoort Makelaars Eindhoven VGM ,2 months
+            5623 DR Eindhoven (Kronehoef)        ,Apartment Petruspark,106 lec videos,"                €1,310 per month            ",106100,Huis-O-Theek ,2 months
+            5611 XG Eindhoven (Witte Dame)        ,Apartment Lichtstraat,104 lec videos,"                €2,100 per month            ",104100,Zuid Beheer B.V. ,3 months
+            5611 CA Eindhoven (Binnenstad)        ,Apartment Vestdijk,45 lec videos,"                €1,875 per month            ",45100,Domica Eindhoven ,2 months
+            5625 AN Eindhoven (Winkelcentrum)        ,Apartment Genovevalaan,37 lec videos,                €850 per month            ,37100,Regio56 Makelaars & Huisvesting ,1 room
+            5617 BB Eindhoven (Strijp S)        ,Apartment Torenallee,74 lec videos,"                €1,550 per month            ",74100,Huurinc Housing ,3 months
+"            5654 NS Eindhoven (Bennekel-West, Gagelbosch)        ",Apartment Blaarthemseweg,45 lec videos,                €950 per month            ,45100,Regio56 Makelaars & Huisvesting ,2 months
+            5612 EP Eindhoven (Hemelrijken)        ,Apartment Bakkerstraat 52,65 lec videos,"                €1,095 per month            ",65100,KI-Makelaardij ,3 months
+            5611 AK Eindhoven (Binnenstad)        ,Apartment Hermanus Boexstraat 44,70 lec videos,"                €1,150 per month            ",70100,Regio56 Makelaars & Huisvesting ,2 months
+            5617 AL Eindhoven (Strijp S)        ,Apartment Philitelaan 63 127,50 lec videos,                €995 per month            ,50100,KI-Makelaardij ,2 months
+            5625 NE Eindhoven ('t Hool)        ,House Garnichweg 5,132 lec videos,"                €1,450 per month            ",132100,KI-Makelaardij ,6 months
+            5644 TS Eindhoven (Genneperzijde)        ,Apartment Boutenslaan 51,70 lec videos,"                €1,200 per month            ",70100,KI-Makelaardij ,2 months
+            5611 PJ Eindhoven (Rochusbuurt)        ,Apartment Hertog Hendrik van Brabantplein,60 lec videos,"                €1,070 per month            ",60100,Regio56 Makelaars & Huisvesting ,3 months
