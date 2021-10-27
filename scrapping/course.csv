@@ -2671,3 +2671,402 @@ university,name of Course,lectures videos,price of Course,students enrolled,name
             2521 AZ Den Haag (Laakhaven-West)        ,Apartment 1e Lulofsdwarsstraat 10 E,79 lec videos,"                €1,295 per month            ",79100,FRIS Vastgoed Management ,3 months
             2514 BV Den Haag (Voorhout)        ,Apartment Smidswater,110 lec videos,"                €1,795 per month            ",110100,Wobeco Housing Agency ,3 months
             2587 SG Den Haag (Belgisch Park)        ,Apartment Harstenhoekweg,152 lec videos,"                €2,450 per month            ",152100,Wobeco Housing Agency ,6 months
+            3512 CV Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Wittevrouwenstraat,44 lec videos,"                €1,250 per month            ",44100,Level 5 Rental Agency ,2 months
+            3553 CE Utrecht (Elinkwijk en omgeving)        ,Apartment Linnaeusstraat,69 lec videos,"                €1,695 per month            ",69100,HouseHunting Utrecht ,3 months
+            3544 WJ Utrecht (Langerak)        ,House Molenrakhof,100 lec videos,"                €1,595 per month            ",100100,Rotsvast Utrecht ,4 months
+            3581 HG Utrecht (Oudwijk)        ,Apartment Ramstraat,49 lec videos,"                €1,230 per month            ",49100,Woonruimte-Utrecht ,2 months
+            3512 CV Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Wittevrouwenstraat,45 lec videos,"                €1,225 per month            ",45100,CF Makelaardij ,3 months
+            3513 VM Utrecht (Pijlsweerd-Zuid)        ,Apartment Stroomstraat,50 lec videos,"                €1,350 per month            ",50100,Huisportaal.nl ,2 months
+            3513 BN Utrecht (Pijlsweerd-Zuid)        ,Apartment Singelstraat 4 I,40 lec videos,"                €1,300 per month            ",40100,EHR Utrecht ,2 months
+            3551 AH Utrecht (2e Daalsebuurt en omgeving)        ,Apartment Esdoornstraat 73,70 lec videos,"                €1,350 per month            ",70100,StartHousing ,3 months
+            3511 AP Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Oudegracht,90 lec videos,"                €1,550 per month            ",90100,Domica Utrecht ,2 months
+            3522 HD Utrecht (Rivierenwijk)        ,Apartment Jutfaseweg 42 K,52 lec videos,"                €1,245 per month            ",52100,Your-House ,2 months
+            3511 AM Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Oudegracht 8 B,41 lec videos,"                €1,295 per month            ",41100,Your-House ,2 months
+            3581 KN Utrecht (Oudwijk)        ,Room Burgemeester Reigerstraat 71 5,29 lec videos,                €762 per month            ,29100,Your-House ,1 room
+            3564 AE Utrecht (Zambesidreef en omgeving)        ,Apartment Tafelbergdreef 174,85 lec videos,"                €1,225 per month            ",85100,Heimstaden ,4 months
+            3582 CS Utrecht (Watervogelbuurt)        ,House Krommerijn,123 lec videos,"                €1,850 per month            ",123100,HouseHunting Utrecht ,4 months
+            3523 TT Utrecht (Oud Hoograven-Noord)        ,Apartment W.A. Vultostraat,30 lec videos,                €950 per month            ,30100,EU-Makelaardij ,1 room
+            3511 BV Utrecht (Wijk C)        ,Apartment Rozenstraat,72 lec videos,"                €1,595 per month            ",72100,B&S Rental Service ,3 months
+            3511 AM Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Oudegracht 8 A,68 lec videos,"                €1,695 per month            ",68100,Your-House ,2 months
+            3527 JH Utrecht (Transwijk-Noord)        ,Apartment Van Vollenhovenlaan 297,105 lec videos,"                €1,750 per month            ",105100,The Hague Real Estate Services ,4 months
+            3526 XN Utrecht (Transwijk-Zuid)        ,Apartment Wanninkhoflaan,80 lec videos,"                €1,495 per month            ",80100,Amstel Housing Utrecht ,3 months
+            3572 BC Utrecht (Wittevrouwen)        ,Apartment Biltstraat 46 D,50 lec videos,"                €1,250 per month            ",50100,StartHousing ,2 months
+            3511 MP Utrecht (Hooch Boulandt)        ,Apartment Arthur van Schendelstraat,85 lec videos,"                €1,600 per month            ",85100,Rotsvast Utrecht ,3 months
+            3526 SR Utrecht (Kanaleneiland-Zuid)        ,Apartment Aziëlaan,85 lec videos,"                €1,400 per month            ",85100,Dak Woningbeleggingen ,3 months
+            3582 JB Utrecht (Rubenslaan en omgeving)        ,Apartment Rubenslaan,80 lec videos,"                €1,350 per month            ",80100,Covers & Jonker Makelaars BV ,4 months
+            3583 VA Utrecht (Wilhelminapark en omgeving)        ,Apartment Dillenburgstraat,66 lec videos,"                €1,575 per month            ",66100,Rotsvast Utrecht ,2 months
+            3572 VG Utrecht (Wittevrouwen)        ,House Klaverstraat 58,90 lec videos,"                €2,150 per month            ",90100,Stadsdaemes onroerend goed ,4 months
+            3562 AV Utrecht (Neckardreef en omgeving)        ,Apartment Jaap Edendreef,95 lec videos,"                €1,350 per month            ",95100,Rotsvast Utrecht ,3 months
+            3514 TS Utrecht (Vogelenbuurt)        ,Apartment Havikstraat,55 lec videos,"                €1,595 per month            ",55100,Rotsvast Utrecht ,2 months
+            3511 ZG Utrecht (Lange Nieuwstraat en omgeving)        ,Apartment Twijnstraat,80 lec videos,"                €1,785 per month            ",80100,IM Home Rentals ,2 months
+            3572 AL Utrecht (Buiten Wittevrouwen)        ,Apartment Biltstraat,63 lec videos,"                €1,225 per month            ",63100,Rotsvast Utrecht ,1 room
+            3532 HM Utrecht (Lombok-Oost)        ,Apartment Vleutenseweg 122,138 lec videos,"                €1,675 per month            ",138100,Hometown ,4 months
+            3531 BX Utrecht (Lombok-Oost)        ,Apartment Moskeeplein 46,96 lec videos,"                €1,675 per month            ",96100,ViaDaan ,4 months
+"            3511 LX Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",Apartment Visschersplein 180,92 lec videos,"                €1,575 per month            ",92100,Hometown ,2 months
+            3544 RA Utrecht (Bedrijvengebied Oudenrijn)        ,House Klifrakplantsoen,132 lec videos,"                €1,850 per month            ",132100,Interhouse verhuurmakelaars Utrecht ,4 months
+            3543 EN Utrecht (Terwijde-Oost)        ,Apartment Ella Fitzgeraldplein 221,68 lec videos,"                €1,450 per month            ",68100,StartHousing ,3 months
+            3521 AT Utrecht (Dichterswijk)        ,Apartment Veilinghavenkade 9,87 lec videos,"                €1,595 per month            ",87100,Stadsdaemes onroerend goed ,3 months
+"            3572 XN Utrecht (Zeeheldenbuurt, Hengeveldstraat en omgeving)        ",Apartment M.A. de Ruyterstraat 44,50 lec videos,"                €1,225 per month            ",50100,Stadsdaemes onroerend goed ,2 months
+"            3511 JA Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",House Hamsteeg,85 lec videos,"                €2,200 per month            ",85100,Valkenet Vastgoed ,4 months
+"            3511 JA Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",House Lange Elisabethstraat,85 lec videos,"                €2,200 per month            ",85100,Valkenet Vastgoed ,4 months
+            3531 HG Utrecht (Lombok-West)        ,Apartment Bankastraat,50 lec videos,"                €1,200 per month            ",50100,EU-Makelaardij ,2 months
+            3531 HG Utrecht (Lombok-West)        ,Apartment Bankastraat,50 lec videos,"                €1,200 per month            ",50100,EU-Makelaardij ,2 months
+            3541 DG Utrecht (Leidsche Rijn-Centrum)        ,Apartment Wenenpromenade,68 lec videos,"                €1,450 per month            ",68100,Domvast ,3 months
+"            3512 GJ Utrecht (Domplein, Neude, Janskerkhof)        ",Apartment Oudkerkhof,48 lec videos,"                €1,295 per month            ",48100,CF Makelaardij ,2 months
+"            3551 CV Utrecht (Egelantierstraat, Mariëndaalstraat e.o.)        ",Apartment Amsterdamsestraatweg,45 lec videos,"                €1,200 per month            ",45100,J&G Vastgoed B.V. ,2 months
+            3551 CM Utrecht (2e Daalsebuurt en omgeving)        ,Apartment Amsterdamsestraatweg,30 lec videos,                €895 per month            ,30100,Lemoo ,2 months
+            3572 AL Utrecht (Buiten Wittevrouwen)        ,Apartment Biltstraat,60 lec videos,"                €1,495 per month            ",60100,Rotsvast Utrecht ,2 months
+            3573 AN Utrecht (Voordorp en Voorveldsepolder)        ,Apartment Aartsbisschop Romerostraat 343,70 lec videos,"                €1,300 per month            ",70100,Carine Fabisch Makelaardij ,3 months
+"            3531 XL Utrecht (Laan van Nieuw-Guinea, Spinozaweg e.o.)        ",Apartment Curaçaostraat 8 BisA,70 lec videos,"                €1,400 per month            ",70100,StartHousing ,3 months
+            3526 WX Utrecht (Transwijk-Zuid)        ,Apartment Europaplein,50 lec videos,"                €1,250 per month            ",50100,Domvast ,2 months
+"            3572 KC Utrecht (Zeeheldenbuurt, Hengeveldstraat en omgeving)        ",Apartment Blauwkapelseweg,80 lec videos,"                €1,875 per month            ",80100,Spot Makelaardij ,3 months
+            3583 RT Utrecht (Schildersbuurt)        ,Apartment Vossegatselaan 22 C,70 lec videos,"                €1,700 per month            ",70100,H.C.A ,3 months
+"            3533 KG Utrecht (Welgelegen, Den Hommel)        ",Apartment Brucknerlaan 104,51 lec videos,"                €1,200 per month            ",51100,ViaDaan ,2 months
+            3573 SK Utrecht (Voordorp en Voorveldsepolder)        ,Apartment Oldenburgerstraat,143 lec videos,"                €1,695 per month            ",143100,HouseHunting Utrecht ,3 months
+            3513 GA Utrecht (Pijlsweerd-Zuid)        ,Apartment David van Mollemstraat 19,79 lec videos,"                €1,595 per month            ",79100,StartHousing ,2 months
+            3512 VD Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Lauwerhof 29,70 lec videos,"                €1,610 per month            ",70100,ViaDaan ,2 months
+            3521 GT Utrecht (Rivierenwijk)        ,Apartment Balijelaan 30,80 lec videos,"                €1,500 per month            ",80100,Van Laar Vastgoed ,3 months
+            3581 AP Utrecht (Buiten Wittevrouwen)        ,Apartment Nachtegaalstraat 92 bis,61 lec videos,"                €1,350 per month            ",61100,WVO Makelaars Utrecht B.V. ,2 months
+            3527 CK Utrecht (Kanaleneiland-Noord)        ,Apartment Van Heuven Goedhartlaan,31 lec videos,                €870 per month            ,31100,Domvast ,2 months
+            3524 CV Utrecht (Lunetten-Noord)        ,Apartment Zevenwouden,76 lec videos,"                €1,300 per month            ",76100,MA/COM Stad- en regiomakelaars ,3 months
+            3511 AB Utrecht (Wijk C)        ,Studio Oudegracht,35 lec videos,                €880 per month            ,35100,HouseHunting Utrecht ,1 room
+"            3511 LX Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",Apartment Visschersplein 160,90 lec videos,"                €1,575 per month            ",90100,Hometown ,2 months
+            3555 RB Utrecht (Zuilen-Noord)        ,Apartment Daalseweghof 102,105 lec videos,"                €1,550 per month            ",105100,EHR Utrecht ,3 months
+            3553 EA Utrecht (Julianapark en omgeving)        ,Apartment Amsterdamsestraatweg,75 lec videos,"                €1,695 per month            ",75100,ViaDaan ,3 months
+            3531 GC Utrecht (Lombok-West)        ,House Daendelsstraat,100 lec videos,"                €1,795 per month            ",100100,Vizier Makelaardij og ,4 months
+            3573 PW Utrecht (Voordorp en Voorveldsepolder)        ,House Sartreweg,181 lec videos,"                €2,750 per month            ",181100,Interhouse verhuurmakelaars Utrecht ,6 months
+            3512 KC Utrecht (Nieuwegracht-Oost)        ,Apartment Herenstraat,50 lec videos,"                €1,300 per month            ",50100,Covers & Jonker Makelaars BV ,2 months
+            3541 CS Utrecht (Leidsche Rijn-Centrum)        ,Apartment Parijsboulevard 169,105 lec videos,"                €1,900 per month            ",105100,StartHousing ,4 months
+            3533 SX Utrecht (Halve Maan-Zuid)        ,Apartment Hendrika van Tussenbroekplantsoen,63 lec videos,"                €1,150 per month            ",63100,NederWoon Verhuurmakelaars Utrecht ,3 months
+            3512 TD Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Loeff Berchmakerstraat,40 lec videos,                €985 per month            ,40100,NederWoon Verhuurmakelaars Utrecht ,2 months
+            3553 TE Utrecht (Julianapark en omgeving)        ,House Arnoldus Rotterdamstraat,100 lec videos,"                €1,650 per month            ",100100,B&S Rental Service ,5 months
+            3512 PG Utrecht (Lange Nieuwstraat en omgeving)        ,Apartment Lange Nieuwstraat,90 lec videos,"                €1,600 per month            ",90100,B&S Rental Service ,2 months
+"            3511 LD Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",Apartment Mariahoek,60 lec videos,"                €1,290 per month            ",60100,Home by Theresa ,2 months
+            3581 ES Utrecht (Buiten Wittevrouwen)        ,House Oorsprongpark,284 lec videos,"                €5,600 per month            ",284100,Home by Theresa ,5 months
+            3511 MP Utrecht (Hooch Boulandt)        ,Apartment Arthur van Schendelstraat,80 lec videos,"                €1,695 per month            ",80100,B&S Rental Service ,2 months
+"            3531 KP Utrecht (Laan van Nieuw-Guinea, Spinozaweg e.o.)        ",Apartment Paramaribostraat,67 lec videos,"                €1,290 per month            ",67100,Marktpand ,2 months
+            3525 VP Utrecht (Oud Hoograven-Zuid)        ,House Hooft Graaflandstraat,106 lec videos,"                €2,150 per month            ",106100,B&S Rental Service ,5 months
+"            3511 BH Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",Apartment Drieharingstraat,50 lec videos,"                €1,095 per month            ",50100,NederWoon Verhuurmakelaars Utrecht ,2 months
+            3554 BK Utrecht (Geuzenwijk)        ,House Blois van Treslongstraat,113 lec videos,"                €1,995 per month            ",113100,B&S Rental Service ,5 months
+            3571 ND Utrecht (Tuindorp-Oost)        ,Apartment Obbinklaan 33,100 lec videos,"                €1,800 per month            ",100100,StartHousing ,5 months
+            3527 HJ Utrecht (Kanaleneiland-Noord)        ,Apartment Eisenhowerlaan 120,74 lec videos,"                €1,300 per month            ",74100,Heimstaden ,3 months
+            3541 CX Utrecht (Leidsche Rijn-Centrum)        ,Apartment Parijsboulevard,89 lec videos,"                €1,845 per month            ",89100,B&S Rental Service ,3 months
+"            3533 JG Utrecht (Welgelegen, Den Hommel)        ",Apartment Ravellaan,75 lec videos,"                €1,185 per month            ",75100,Overbruggingsverhuur.nl ,2 months
+            3511 VV Utrecht (Springweg en omgeving Geertebuurt)        ,Apartment Springweg 88,114 lec videos,"                €1,850 per month            ",114100,Alberts & Muus Wonen ,4 months
+"            3582 AK Utrecht (Abstede, Tolsteegsingel e.o.)        ",Apartment Tolsteegsingel,45 lec videos,"                €1,050 per month            ",45100,B&S Rental Service ,1 room
+"            3551 TN Utrecht (Egelantierstraat, Mariëndaalstraat e.o.)        ",House Seringstraat 94,85 lec videos,"                €1,450 per month            ",85100,Prevenda ,4 months
+            3533 XH Utrecht (Oog in Al)        ,House Mendelssohnstraat,110 lec videos,"                €2,250 per month            ",110100,B&S Rental Service ,7 months
+            3511 MB Utrecht (Hooch Boulandt)        ,Apartment Arthur van Schendelstraat,95 lec videos,"                €1,495 per month            ",95100,B&S Rental Service ,3 months
+"            3582 AK Utrecht (Abstede, Tolsteegsingel e.o.)        ",Apartment Tolsteegsingel,45 lec videos,                €995 per month            ,45100,B&S Rental Service ,1 room
+            3533 XH Utrecht (Oog in Al)        ,House Mendelssohnstraat,135 lec videos,"                €1,997 per month            ",135100,IM Home Rentals ,6 months
+            3521 VZ Utrecht (Dichterswijk)        ,House Da Costakade,70 lec videos,"                €1,250 per month            ",70100,Rotsvast Utrecht ,3 months
+"            3511 LL Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",Apartment Mariaplaats,80 lec videos,"                €2,195 per month            ",80100,B&S Rental Service ,2 months
+            3544 AH Utrecht (Parkwijk-Zuid)        ,House Rozemarijnsingel,132 lec videos,"                €2,495 per month            ",132100,MelvinBloemendal.com ,4 months
+            3555 HN Utrecht (Zuilen-Noord)        ,Apartment Amsterdamsestraatweg 907 E,68 lec videos,"                €1,100 per month            ",68100,Alliances Makelaardij ,3 months
+            3562 XG Utrecht (Zamenhofdreef en omgeving)        ,Apartment Androsdreef,95 lec videos,"                €1,295 per month            ",95100,123Wonen Utrecht ,4 months
+            3526 BG Utrecht (Kanaleneiland-Zuid)        ,Apartment Rooseveltlaan,68 lec videos,"                €1,300 per month            ",68100,NederWoon Verhuurmakelaars Utrecht ,3 months
+            3512 LP Utrecht (Nieuwegracht-Oost)        ,Apartment Nieuwegracht,70 lec videos,"                €1,475 per month            ",70100,B&S Rental Service ,2 months
+            3515 AW Utrecht (Tuinwijk-West)        ,Apartment Antonius Matthaeuslaan,40 lec videos,                €895 per month            ,40100,VGW Housing ,2 months
+            3553 EM Utrecht (Elinkwijk en omgeving)        ,Apartment Amsterdamsestraatweg 498 A,30 lec videos,"                €1,050 per month            ",30100,HillyHome ,2 months
+            3581 XW Utrecht (Buiten Wittevrouwen)        ,House Hugo de Grootstraat,122 lec videos,"                €2,000 per month            ",122100,Rebid ,4 months
+            3531 CB Utrecht (Lombok-Oost)        ,Apartment Kanaalstraat,70 lec videos,"                €1,875 per month            ",70100,Vizier Makelaardij og ,3 months
+            3572 CD Utrecht (Wittevrouwen)        ,Apartment Wittevrouwensingel,99 lec videos,"                €2,250 per month            ",99100,B&S Rental Service ,3 months
+            3522 BX Utrecht (Rivierenwijk)        ,Apartment Rijnlaan,100 lec videos,"                €1,500 per month            ",100100,HuisHuren030 ,3 months
+            3521 TX Utrecht (Hoog-Catharijne NS en Jaarbeurs)        ,Apartment Jan van Foreeststraat,30 lec videos,"                €1,040 per month            ",30100,Rotsvast Utrecht ,1 room
+            3562 JV Utrecht (Zamenhofdreef en omgeving)        ,Apartment Zamenhofdreef,20 lec videos,                €370 per month            ,20100,Van Der Huizen ,1 room
+            3541 CB Utrecht (Leidsche Rijn-Centrum)        ,Apartment Londenstraat,71 lec videos,"                €1,595 per month            ",71100,Rotsvast Utrecht ,3 months
+            3526 ST Utrecht (Kanaleneiland-Zuid)        ,Apartment Aziëlaan,72 lec videos,"                €1,500 per month            ",72100,Valkenet Vastgoed ,2 months
+            3526 ST Utrecht (Kanaleneiland-Zuid)        ,Apartment Aziëlaan,72 lec videos,"                €1,500 per month            ",72100,Valkenet Vastgoed ,2 months
+            3527 TD Utrecht (Kanaleneiland-Noord)        ,Apartment Marshalllaan,72 lec videos,"                €1,350 per month            ",72100,Rotsvast Utrecht ,3 months
+            3552 HK Utrecht (Geuzenwijk)        ,Apartment Marnixlaan,80 lec videos,"                €1,350 per month            ",80100,Domica Utrecht ,3 months
+            3551 WL Utrecht (2e Daalsebuurt en omgeving)        ,Apartment Dwarsligger 3 A,56 lec videos,"                €2,000 per month            ",56100,RE/MAX Gildenhof ,2 months
+            3526 VT Utrecht (Kanaleneiland-Zuid)        ,Apartment Battutalaan 739,88 lec videos,"                €1,495 per month            ",88100,StartHousing ,3 months
+            3514 GK Utrecht (Tuinwijk-Oost)        ,Apartment Willem van Noortplein,82 lec videos,"                €1,750 per month            ",82100,Forest Property Management ,3 months
+            3544 NX Utrecht (Het Zand-West)        ,Apartment Pablo Picassostraat,100 lec videos,"                €1,750 per month            ",100100,B&S Rental Service ,3 months
+            3582 AW Utrecht (Watervogelbuurt)        ,Apartment Wulpstraat 43,27 lec videos,                €985 per month            ,27100,Stadsdaemes onroerend goed ,1 room
+            3531 GE Utrecht (Lombok-West)        ,House Daendelsstraat,80 lec videos,"                €1,450 per month            ",80100,Guntenaar Wonen ,3 months
+            3514 BH Utrecht (Lauwerecht)        ,Apartment Gruttersdijk,66 lec videos,"                €1,750 per month            ",66100,Covers & Jonker Makelaars BV ,3 months
+"            3511 JA Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",House Hamsteeg,85 lec videos,"                €2,200 per month            ",85100,Valkenet Vastgoed ,4 months
+            3581 KW Utrecht (Oudwijk)        ,Apartment Burgemeester Reigerstraat,70 lec videos,"                €1,550 per month            ",70100,LEF Makelaars ,2 months
+            3581 LA Utrecht (Oudwijk)        ,Apartment Oudwijkerdwarsstraat,95 lec videos,"                €1,595 per month            ",95100,B&S Rental Service ,4 months
+            3511 BN Utrecht (Hoog-Catharijne NS en Jaarbeurs)        ,Apartment Hollandse Toren,63 lec videos,"                €1,400 per month            ",63100,Covers & Jonker Makelaars BV ,2 months
+            3526 WT Utrecht (Transwijk-Zuid)        ,Apartment Europaplein 952,31 lec videos,                €875 per month            ,31100,Heimstaden ,1 room
+            3522 HR Utrecht (Rivierenwijk)        ,Apartment Jutfaseweg,47 lec videos,"                €1,150 per month            ",47100,Rebid ,1 room
+            3566 MG Utrecht (Poldergebied Overvecht)        ,House Gageldijk,70 lec videos,"                €1,300 per month            ",70100,Maxx Zwolle ,3 months
+            3511 MZ Utrecht (Hooch Boulandt)        ,Apartment Carry van Bruggenstraat 8,65 lec videos,"                €1,600 per month            ",65100,Huizenbalie.nl ,3 months
+            3571 XW Utrecht (Tuindorp-Oost)        ,Apartment Rümkelaan,110 lec videos,"                €1,825 per month            ",110100,DEHONvastgoed ,4 months
+            3521 BX Utrecht (Dichterswijk)        ,House Croeselaan,103 lec videos,"                €2,250 per month            ",103100,Valkenet Vastgoed ,3 months
+            3521 BX Utrecht (Dichterswijk)        ,House Croeselaan,103 lec videos,"                €2,250 per month            ",103100,Valkenet Vastgoed ,3 months
+"            3572 PB Utrecht (Zeeheldenbuurt, Hengeveldstraat en omgeving)        ",Apartment Willem Barentszstraat,65 lec videos,"                €1,400 per month            ",65100,Rotsvast Utrecht ,2 months
+            3582 TB Utrecht (Watervogelbuurt)        ,House Duikerstraat,100 lec videos,"                €1,800 per month            ",100100,City Estate ,3 months
+            3526 SG Utrecht (Kanaleneiland-Zuid)        ,Apartment Aziëlaan,40 lec videos,"                €1,025 per month            ",40100,Lemoo ,2 months
+"            3533 JN Utrecht (Welgelegen, Den Hommel)        ",Apartment Ravellaan,75 lec videos,"                €1,600 per month            ",75100,CS Housing ,4 months
+            3581 SZ Utrecht (Oudwijk)        ,Apartment Vlietstraat,50 lec videos,"                €1,325 per month            ",50100,B&S Rental Service ,2 months
+            3513 EW Utrecht (Pijlsweerd-Zuid)        ,Apartment Westerdijk,68 lec videos,"                €1,525 per month            ",68100,Interhouse verhuurmakelaars Utrecht ,2 months
+            3532 HT Utrecht (Lombok-West)        ,Apartment Vleutenseweg 336,64 lec videos,"                €1,500 per month            ",64100,The Brick Club ,3 months
+"            3572 PK Utrecht (Zeeheldenbuurt, Hengeveldstraat en omgeving)        ",Apartment Willem Barentszstraat,42 lec videos,"                €1,239 per month            ",42100,Simpelsearch ,2 months
+            3522 HH Utrecht (Rivierenwijk)        ,Apartment Jutfaseweg 96,50 lec videos,"                €1,250 per month            ",50100,VVZ - Vastgoed Verhuur Zwolle ,2 months
+            3511 AN Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Oudegracht,65 lec videos,"                €1,595 per month            ",65100,B&S Rental Service ,3 months
+            3512 KS Utrecht (Nieuwegracht-Oost)        ,Apartment Schalkwijkstraat,86 lec videos,"                €1,895 per month            ",86100,VGW Housing ,4 months
+            3555 GH Utrecht (Zuilen-Noord)        ,Apartment Van Heesstraat,54 lec videos,"                €1,142 per month            ",54100,NederWoon Verhuurmakelaars Utrecht ,2 months
+"            3511 KH Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",Apartment Lijnmarkt,45 lec videos,"                €1,195 per month            ",45100,B&S Rental Service ,2 months
+            3531 ET Utrecht (Lombok-West)        ,Apartment Jan Pieterszoon Coenstraat,60 lec videos,"                €1,295 per month            ",60100,B&S Rental Service ,2 months
+            3555 CW Utrecht (Prins Bernhardplein en omgeving)        ,Apartment Berlagestraat,35 lec videos,                €850 per month            ,35100,NederWoon Verhuurmakelaars Utrecht ,2 months
+"            3572 NB Utrecht (Huizingalaan, K. Doormanlaan en omgeving)        ",Apartment Karel Doormanlaan 13,105 lec videos,"                €1,595 per month            ",105100,Rentals Utrecht ,4 months
+            3552 CH Utrecht (Ondiep)        ,Apartment Ahornstraat 22,70 lec videos,"                €1,300 per month            ",70100,Wij Makelaardij ,3 months
+            3523 EL Utrecht (Oud Hoograven-Noord)        ,Apartment Aquamarijnlaan,73 lec videos,"                €1,550 per month            ",73100,B&S Rental Service ,3 months
+"            3582 KH Utrecht (Abstede, Tolsteegsingel e.o.)        ",Apartment Bosboomstraat,75 lec videos,"                €1,475 per month            ",75100,Maxx Zwolle ,4 months
+"            3582 KH Utrecht (Abstede, Tolsteegsingel e.o.)        ",Apartment Bosboomstraat,55 lec videos,"                €1,350 per month            ",55100,Maxx Zwolle ,3 months
+            3571 KE Utrecht (Tuindorp-Oost)        ,Apartment Winklerlaan,146 lec videos,"                €2,350 per month            ",146100,NederWoon Verhuurmakelaars Utrecht ,4 months
+"            3512 HR Utrecht (Domplein, Neude, Janskerkhof)        ",House Achter St.-Pieter,119 lec videos,"                €2,600 per month            ",119100,VGW Housing ,4 months
+            3523 HJ Utrecht (Nieuw Hoograven-Noord)        ,Apartment Ruygenhoeklaan 11 A,90 lec videos,"                €1,350 per month            ",90100,Your-House ,3 months
+"            3512 JL Utrecht (Domplein, Neude, Janskerkhof)        ",Apartment Voetiusstraat,120 lec videos,"                €2,000 per month            ",120100,Houserenting4all.nl ,4 months
+            3544 KP Utrecht (Het Zand-Oost)        ,Apartment Willem Frederik Hermansstraat,87 lec videos,"                €1,175 per month            ",87100,Wooove B.V. ,3 months
+            3544 KJ Utrecht (Het Zand-West)        ,Apartment Anna Blamanstraat,88 lec videos,"                €1,160 per month            ",88100,Wooove B.V. ,3 months
+            3581 VV Utrecht (Oudwijk)        ,Apartment Baanstraat 18 bis,131 lec videos,"                €2,600 per month            ",131100,Makelaar voor een uur ,5 months
+"            3572 KD Utrecht (Zeeheldenbuurt, Hengeveldstraat en omgeving)        ",Apartment Blauwkapelseweg,84 lec videos,"                €1,950 per month            ",84100,Spot Makelaardij ,3 months
+            3511 BN Utrecht (Hoog-Catharijne NS en Jaarbeurs)        ,Apartment Hollandse Toren,120 lec videos,"                €2,450 per month            ",120100,B&S Rental Service ,4 months
+            3515 GK Utrecht (Lauwerecht)        ,House Verenigingstraat,75 lec videos,"                €1,495 per month            ",75100,Overbruggingsverhuur.nl ,3 months
+            3581 HN Utrecht (Wilhelminapark en omgeving)        ,Apartment Emmalaan,100 lec videos,"                €2,450 per month            ",100100,B&S Rental Service ,3 months
+            3511 RS Utrecht (Wijk C)        ,Apartment Bergstraat 60,109 lec videos,"                €1,645 per month            ",109100,Alberts & Muus Wonen ,3 months
+            3514 BH Utrecht (Lauwerecht)        ,Apartment Gruttersdijk 30 G,76 lec videos,"                €1,795 per month            ",76100,Stadsdaemes onroerend goed ,3 months
+            3526 XX Utrecht (Transwijk-Zuid)        ,Apartment Jo Wüthrichlaan,85 lec videos,"                €1,395 per month            ",85100,Home to rent ,3 months
+            3522 DK Utrecht (Rivierenwijk)        ,Apartment Reyer Anslostraat,123 lec videos,"                €1,950 per month            ",123100,B&S Rental Service ,3 months
+            3521 BX Utrecht (Dichterswijk)        ,Apartment Croeselaan,100 lec videos,"                €2,000 per month            ",100100,Dak Woningbeleggingen ,3 months
+            3581 NW Utrecht (Wilhelminapark en omgeving)        ,Apartment Mecklenburglaan,80 lec videos,"                €1,845 per month            ",80100,VGW Housing ,3 months
+            3573 PT Utrecht (Voordorp en Voorveldsepolder)        ,Room Ariënslaan 1,20 lec videos,"                €1,500 per month            ",20100,Stenia Vastgoedbeheer ,2 months
+            3555 VR Utrecht (Prins Bernhardplein en omgeving)        ,House H. Wijnmalenstraat,120 lec videos,"                €1,695 per month            ",120100,B&S Rental Service ,5 months
+            3571 KE Utrecht (Tuindorp-Oost)        ,Apartment Winklerlaan,88 lec videos,"                €1,496 per month            ",88100,NederWoon Verhuurmakelaars Utrecht ,3 months
+            3571 KE Utrecht (Tuindorp-Oost)        ,Apartment Winklerlaan,104 lec videos,"                €1,575 per month            ",104100,NederWoon Verhuurmakelaars Utrecht ,4 months
+            3571 KE Utrecht (Tuindorp-Oost)        ,Apartment Winklerlaan,109 lec videos,"                €1,595 per month            ",109100,NederWoon Verhuurmakelaars Utrecht ,4 months
+            3571 KE Utrecht (Tuindorp-Oost)        ,Apartment Winklerlaan,123 lec videos,"                €1,736 per month            ",123100,NederWoon Verhuurmakelaars Utrecht ,4 months
+            3522 AW Utrecht (Rivierenwijk)        ,House Amaliastraat,85 lec videos,"                €1,750 per month            ",85100,IM Home Rentals ,3 months
+            3512 AP Utrecht (Breedstraat en Plompetorengracht en omgeving)        ,Apartment Voorstraat,30 lec videos,                €779 per month            ,30100,NederWoon Verhuurmakelaars Utrecht ,1 room
+"            3512 BG Utrecht (Domplein, Neude, Janskerkhof)        ",Apartment Jansveld,105 lec videos,"                €2,650 per month            ",105100,Reedijk Real Estate ,3 months
+            3581 KW Utrecht (Oudwijk)        ,Apartment Burgemeester Reigerstraat,80 lec videos,"                €1,850 per month            ",80100,VGW Housing ,3 months
+            3527 DK Utrecht (Kanaleneiland-Noord)        ,Studio Van Heuven Goedhartplein,19 lec videos,                €790 per month            ,19100,Canvas Utrecht ,1 room
+            3531 CG Utrecht (Lombok-West)        ,Apartment Kanaalstraat,30 lec videos,"                €1,650 per month            ",30100,IM Home Rentals ,2 months
+"            3532 AD Utrecht (Laan van Nieuw-Guinea, Spinozaweg e.o.)        ",Apartment Vleutensevaart 100 427,45 lec videos,"                €3,550 per month            ",45100,Tweelwonen.nl Utrecht ,2 months
+"            3532 AD Utrecht (Laan van Nieuw-Guinea, Spinozaweg e.o.)        ",Apartment Vleutensevaart 100 401,35 lec videos,"                €2,500 per month            ",35100,Tweelwonen.nl Utrecht ,1 room
+            3514 AG Utrecht (Vogelenbuurt)        ,Apartment Weerdsingel O.Z.,70 lec videos,"                €1,765 per month            ",70100,Domica Utrecht ,2 months
+            3514 AG Utrecht (Vogelenbuurt)        ,Apartment Weerdsingel O.Z.,75 lec videos,"                €1,765 per month            ",75100,Domica Utrecht ,2 months
+"            3572 LL Utrecht (Huizingalaan, K. Doormanlaan en omgeving)        ",Apartment Huizingalaan,35 lec videos,"                €1,800 per month            ",35100,Tweelwonen.nl Utrecht ,1 room
+"            3572 LL Utrecht (Huizingalaan, K. Doormanlaan en omgeving)        ",Apartment Huizingalaan,45 lec videos,"                €2,100 per month            ",45100,Tweelwonen.nl Utrecht ,2 months
+            3555 ER Utrecht (Zuilen-Noord)        ,Apartment Burgemeester Norbruislaan 402,65 lec videos,"                €1,300 per month            ",65100,Huizenbalie.nl ,4 months
+            3583 TK Utrecht (Schildersbuurt)        ,Apartment Hendrick de Keyserstraat,60 lec videos,"                €1,450 per month            ",60100,ITS Housing ,3 months
+            3551 CT Utrecht (2e Daalsebuurt en omgeving)        ,Apartment Amsterdamsestraatweg,25 lec videos,                €695 per month            ,25100,Level 5 Rental Agency ,1 room
+            3511 HN Utrecht (Hooch Boulandt)        ,Apartment Justus van Effenstraat 46 C,31 lec videos,                €845 per month            ,31100,Your-House ,2 months
+            3551 BH Utrecht (2e Daalsebuurt en omgeving)        ,Apartment Acaciastraat 30,68 lec videos,"                €1,525 per month            ",68100,Your-House ,2 months
+            3555 VZ Utrecht (Zuilen-Noord)        ,Apartment Lieven de Keylaan 24,28 lec videos,                €784 per month            ,28100,StartHousing ,1 room
+            3511 PE Utrecht (Springweg en omgeving Geertebuurt)        ,Apartment Oudegracht,90 lec videos,"                €1,695 per month            ",90100,B&S Rental Service ,2 months
+            3582 JE Utrecht (Rubenslaan en omgeving)        ,Apartment Rubenslaan 79 3,72 lec videos,"                €1,395 per month            ",72100,Your-House ,3 months
+            3527 JE Utrecht (Transwijk-Noord)        ,Apartment Van Vollenhovenlaan,112 lec videos,"                €1,499 per month            ",112100,HouseHunting Utrecht ,4 months
+"            3511 KB Utrecht (Lange Elisabethstraat, Mariaplaats en omgeving)        ",Apartment Donkerstraat,75 lec videos,"                €1,175 per month            ",75100,HouseHunting Utrecht ,2 months
+            3581 LA Utrecht (Oudwijk)        ,House Oudwijkerdwarsstraat,72 lec videos,"                €1,595 per month            ",72100,B&S Rental Service ,4 months
+"            3512 LC Utrecht (Domplein, Neude, Janskerkhof)        ",Apartment Nieuwegracht,115 lec videos,"                €2,750 per month            ",115100,ITS Housing ,4 months
+"            3512 BL Utrecht (Domplein, Neude, Janskerkhof)        ",Apartment Janskerkhof,120 lec videos,"                €2,245 per month            ",120100,B&S Rental Service ,3 months
+"            3531 VL Utrecht (Laan van Nieuw-Guinea, Spinozaweg e.o.)        ",House Makassarstraat 75,116 lec videos,"                €1,650 per month            ",116100,The Brick Club ,5 months
+            3581 LM Utrecht (Oudwijk)        ,House Bankstraat,67 lec videos,"                €1,695 per month            ",67100,B&S Rental Service ,4 months
+            3511 HG Utrecht (Hooch Boulandt)        ,Apartment Nicolaas Beetsstraat,95 lec videos,"                €1,995 per month            ",95100,B&S Rental Service ,3 months
+            3511 EX Utrecht (Hooch Boulandt)        ,Apartment Vrouwe Justitiaplein,120 lec videos,"                €1,995 per month            ",120100,B&S Rental Service ,3 months
+"            3511 AZ Utrecht (Domplein, Neude, Janskerkhof)        ",Apartment Oudegracht,137 lec videos,"                €3,100 per month            ",137100,B&S Rental Service ,3 months
+            9725 JD Groningen (Herewegbuurt)        ,House Willemstraat,58 lec videos,"                €1,075 per month            ",58100,Rotsvast Groningen ,5 months
+            9715 AD Groningen (Indische buurt)        ,Apartment Korreweg 66 c,70 lec videos,"                €1,221 per month            ",70100,DC Wonen ,4 months
+            9713 KA Groningen (Gorechtbuurt)        ,Apartment Oosterhamrikkade,40 lec videos,                €845 per month            ,40100,NederWoon Verhuurmakelaars Zwolle ,2 months
+            9725 AC Groningen (Rivierenbuurt)        ,Apartment Hereweg,50 lec videos,"                €1,037 per month            ",50100,DC Wonen ,3 months
+            9714 AV Groningen (Professorenbuurt)        ,House Singelweg 54,150 lec videos,"                €2,450 per month            ",150100,Groningse Panden Beheer B.V. ,4 months
+            9718 CB Groningen (Binnenstad-West)        ,Apartment Westersingel 27,90 lec videos,"                €1,650 per month            ",90100,Groningse Panden Beheer B.V. ,3 months
+            9725 AD Groningen (Herewegbuurt)        ,Apartment Hereweg 30 22,110 lec videos,"                €1,595 per month            ",110100,Groningse Panden Beheer B.V. ,3 months
+            9728 JJ Groningen (Corpus den Hoorn)        ,Apartment Wenckebachlaan 32,100 lec videos,"                €1,045 per month            ",100100,Pandomo Makelaars ,4 months
+            9718 AS Groningen (Binnenstad-West)        ,Apartment Westerkade 20 a,55 lec videos,"                €1,275 per month            ",55100,Groningse Panden Beheer B.V. ,2 months
+            9724 BC Groningen (Oosterpoort)        ,Apartment Lodewijkstraat,140 lec videos,"                €1,655 per month            ",140100,I Property Management ,4 months
+            9746 BV Groningen (Gravenburg)        ,House De Cockstraat,140 lec videos,"                €1,795 per month            ",140100,Van der Meulen Makelaars ,4 months
+            9712 JH Groningen (Binnenstad-Noord)        ,Apartment Martinikerkhof,95 lec videos,"                €1,850 per month            ",95100,Van der Meulen Makelaars ,3 months
+            9723 LB Groningen (Kop van Oost)        ,Apartment Het Hout,55 lec videos,"                €1,450 per month            ",55100,Van der Meulen Makelaars ,2 months
+            9711 GH Groningen (Binnenstad-Zuid)        ,Apartment Herebinnensingel,23 lec videos,                €495 per month            ,23100,Tuitman Vastgoed ,1 room
+            9726 BL Groningen (Zeeheldenbuurt)        ,House Van Speykstraat 10,125 lec videos,"                €1,895 per month            ",125100,Fides Diensten ,4 months
+            9711 NA Groningen (Binnenstad-Zuid)        ,Apartment Gelkingestraat,77 lec videos,"                €1,750 per month            ",77100,Makelaardij Prins van Wijngaarden ,3 months
+            9728 EG Groningen (Corpus den Hoorn)        ,House Bezettingslaan,105 lec videos,"                €1,395 per month            ",105100,123Wonen Groningen ,4 months
+            9722 EK Groningen (Coendersborg)        ,Apartment Helper Brink,100 lec videos,"                €1,450 per month            ",100100,HouseHunting Groningen ,3 months
+            9714 CD Groningen (Professorenbuurt)        ,Apartment Eyssoniusplein,65 lec videos,"                €1,075 per month            ",65100,Tuitman Vastgoed ,2 months
+            9724 LL Groningen (Oosterpoort)        ,Apartment Jan Goeverneurstraat 8 b,46 lec videos,"                €1,175 per month            ",46100,Confides Verhuur ,3 months
+            9714 CR Groningen (Professorenbuurt)        ,Apartment J.C. Kapteynlaan 38,110 lec videos,"                €1,500 per month            ",110100,Groningse Panden Beheer B.V. ,4 months
+            9721 BA Groningen (Helpman)        ,Apartment Helper Westsingel,56 lec videos,"                €1,095 per month            ",56100,Maxx Groningen ,2 months
+            9715 BT Groningen (Indische buurt)        ,Apartment Riouwstraat 31,50 lec videos,                €900 per month            ,50100,Gruno Vastgoed B.V. ,1 room
+            9717 KA Groningen (Noorderplantsoenbuurt)        ,Apartment Koolstraat 7 a,85 lec videos,"                €1,450 per month            ",85100,Confides Verhuur ,3 months
+            9718 MD Groningen (Schildersbuurt)        ,House Rubensstraat 44,100 lec videos,"                €1,400 per month            ",100100,REC Vastgoed ,6 months
+            9726 GL Groningen (Zeeheldenbuurt)        ,Apartment Van Heemskerckstraat 20 a,85 lec videos,"                €1,325 per month            ",85100,REC Vastgoed ,4 months
+            9714 AB Groningen (Professorenbuurt)        ,Apartment Korreweg 29,47 lec videos,                €975 per month            ,47100,Gruno Vastgoed B.V. ,2 months
+            9711 LX Groningen (Binnenstad-Noord)        ,Apartment Grote Markt 45 e,60 lec videos,"                €1,195 per month            ",60100,Gruno Vastgoed B.V. ,4 months
+            9712 NN Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Nieuwe Ebbingestraat,16 lec videos,                €400 per month            ,16100,Tuitman Vastgoed ,1 room
+            9713 AC Groningen (Gorechtbuurt)        ,Apartment Petrus Campersingel,50 lec videos,"                €1,095 per month            ",50100,I Property Management ,2 months
+            9711 KV Groningen (Binnenstad-Zuid)        ,Apartment Vismarkt 46,100 lec videos,"                €1,795 per month            ",100100,REC Vastgoed ,4 months
+            9718 NG Groningen (Kostverloren)        ,Apartment Friesestraatweg 16 f,50 lec videos,"                €1,050 per month            ",50100,Schovast ,2 months
+            9717 LR Groningen (Noorderplantsoen)        ,House Bergstraat 5,66 lec videos,"                €1,300 per month            ",66100,Hoomly ,2 months
+            9712 LR Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Boterdiep,51 lec videos,"                €1,450 per month            ",51100,BED'R Apartments ,2 months
+            9722 AW Groningen (Helpman)        ,Apartment Helper Oostsingel,72 lec videos,"                €1,250 per month            ",72100,Groningse Panden Beheer B.V. ,2 months
+            9713 HM Groningen (Gorechtbuurt)        ,Apartment Gerbrand Bakkerstraat 64 a,100 lec videos,"                €1,295 per month            ",100100,REC Vastgoed ,3 months
+            9718 GM Groningen (Schildersbuurt)        ,Apartment Jozef Israëlsstraat,30 lec videos,                €935 per month            ,30100,Groningse Panden Beheer B.V. ,2 months
+            9726 BB Groningen (Zeeheldenbuurt)        ,Studio Paterswoldseweg,30 lec videos,"                €1,050 per month            ",30100,Havos Vastgoed ,1 room
+            9714 GX Groningen (Professorenbuurt)        ,Apartment Diephuisstraat,75 lec videos,"                €1,800 per month            ",75100,BED'R Apartments ,3 months
+            9712 JA Groningen (Binnenstad-Noord)        ,Apartment Hofstraat,96 lec videos,"                €1,399 per month            ",96100,Tuitman Vastgoed ,3 months
+            9715 AD Groningen (Indische buurt)        ,Room Korreweg,21 lec videos,                €430 per month            ,21100,Maxx Groningen ,1 room
+            9731 AL Groningen (Oosterhoogebrug)        ,Apartment Timpweg,200 lec videos,                €750 per month            ,200100,Maxx Groningen ,5 months
+            9743 RS Groningen (Vinkhuizen-Zuid)        ,House Zilverhof,118 lec videos,"                €1,395 per month            ",118100,123Wonen Groningen ,5 months
+            9711 HB Groningen (Binnenstad-Zuid)        ,Apartment Gedempte Zuiderdiep,55 lec videos,"                €1,100 per month            ",55100,Maxx Groningen ,2 months
+            9712 HE Groningen (Binnenstad-Noord)        ,Apartment Oude Ebbingestraat 71 a,45 lec videos,"                €1,175 per month            ",45100,Gruno Vastgoed B.V. ,2 months
+            9712 LN Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Boterdiep,50 lec videos,                Price on request            ,50100,BED'R Apartments ,2 months
+            9712 XB Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Noorderbinnensingel,55 lec videos,                Price on request            ,55100,BED'R Apartments ,2 months
+            9712 PJ Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Nieuwe Boteringestraat,45 lec videos,                Price on request            ,45100,BED'R Apartments ,2 months
+            9718 BJ Groningen (Binnenstad-Noord)        ,Apartment Lage der A,88 lec videos,"                €1,450 per month            ",88100,123Wonen Groningen ,3 months
+            9721 LA Groningen (De Wijert)        ,Apartment Vondellaan 19,74 lec videos,"                €1,695 per month            ",74100,Fides Diensten ,4 months
+            9722 BA Groningen (Helpman)        ,Apartment Brinklaan,40 lec videos,                €752 per month            ,40100,Tuitman Vastgoed ,2 months
+            9721 EB Groningen (Helpman)        ,Apartment Van Starkenborghstraat,32 lec videos,                €890 per month            ,32100,Tuitman Vastgoed ,2 months
+            9722 EK Groningen (Coendersborg)        ,Apartment Helper Brink,66 lec videos,"                €1,140 per month            ",66100,HouseHunting Groningen ,2 months
+            9715 BE Groningen (Indische buurt)        ,Apartment Fivelstraat,85 lec videos,"                €1,300 per month            ",85100,Tuitman Vastgoed ,4 months
+            9722 AW Groningen (Helpman)        ,Apartment Helper Oostsingel,104 lec videos,"                €1,600 per month            ",104100,Groningse Panden Beheer B.V. ,3 months
+            9711 BD Groningen (Binnenstad-Zuid)        ,Apartment Ubbo Emmiussingel 45 b,109 lec videos,"                €1,245 per month            ",109100,Pandomo Makelaars ,3 months
+            9727 BC Groningen (Laanhuizen)        ,House Paterswoldseweg,120 lec videos,"                €1,350 per month            ",120100,123Wonen Groningen ,4 months
+            9711 AA Groningen (Binnenstad-Zuid)        ,Apartment Praediniussingel 1,80 lec videos,"                €1,600 per month            ",80100,REC Vastgoed ,3 months
+            9711 AA Groningen (Binnenstad-Zuid)        ,Apartment Praediniussingel 1 d,65 lec videos,"                €1,500 per month            ",65100,REC Vastgoed ,2 months
+            9715 BE Groningen (Indische buurt)        ,Apartment Fivelstraat,55 lec videos,                €895 per month            ,55100,Tuitman Vastgoed ,3 months
+            9713 GN Groningen (Gorechtbuurt)        ,Apartment Linnaeusplein 41,70 lec videos,"                €1,300 per month            ",70100,REC Vastgoed ,3 months
+            9718 JC Groningen (Schildersbuurt)        ,House Kraneweg 9,180 lec videos,"                €2,250 per month            ",180100,REC Vastgoed ,4 months
+            9716 EA Groningen (De Hoogte)        ,Apartment Van Oldenbarneveltlaan,52 lec videos,"                €1,150 per month            ",52100,Maxx Groningen ,2 months
+            9712 TR Groningen (Hortusbuurt-Ebbingekwartier)        ,House Kamerlingheplein,281 lec videos,"                €2,495 per month            ",281100,Rotsvast Groningen ,8 months
+            9722 NC Groningen (Coendersborg)        ,Apartment Thorbeckelaan 18,90 lec videos,"                €1,400 per month            ",90100,REC Vastgoed ,3 months
+            9713 EJ Groningen (Gorechtbuurt)        ,Apartment Damsterdiep,85 lec videos,"                €1,100 per month            ",85100,HouseHunting Groningen ,4 months
+            9741 HT Groningen (Selwerd)        ,House Vlierstraat,100 lec videos,"                €1,350 per month            ",100100,123Wonen Groningen ,4 months
+            9712 SG Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Nieuwe Kijk in 't Jatstraat,86 lec videos,"                €1,475 per month            ",86100,Tuitman Vastgoed ,3 months
+            9728 VG Groningen (Hoornse Meer)        ,Apartment S.O.J. Palmelaan,110 lec videos,"                €1,250 per month            ",110100,HouseHunting Groningen ,4 months
+            9713 BR Groningen (Gorechtbuurt)        ,Apartment Wielewaalplein,48 lec videos,                €985 per month            ,48100,Tuitman Vastgoed ,2 months
+            9725 AD Groningen (Herewegbuurt)        ,Apartment Hereweg 30 17,100 lec videos,"                €1,695 per month            ",100100,REC Vastgoed ,3 months
+            9722 BP Groningen (Coendersborg)        ,Apartment Helperzoom,80 lec videos,"                €1,175 per month            ",80100,Tuitman Vastgoed ,4 months
+            9741 NE Groningen (Selwerd)        ,Apartment Elzenlaan,90 lec videos,"                €1,250 per month            ",90100,HouseHunting Groningen ,3 months
+            9713 HS Groningen (Gorechtbuurt)        ,Apartment Jan Hissink Jansenstraat,70 lec videos,"                €1,250 per month            ",70100,Ben-s.nl verhuur en beheer ,3 months
+            9712 KP Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Turfsingel,60 lec videos,                €915 per month            ,60100,123Wonen Groningen ,2 months
+            9717 HK Groningen (Noorderplantsoenbuurt)        ,House Grachtstraat,75 lec videos,"                €1,300 per month            ",75100,de makelaar Ella Onrust ,3 months
+            9727 BT Groningen (Grunobuurt)        ,Apartment Paterswoldseweg,90 lec videos,                €995 per month            ,90100,123Wonen Groningen ,4 months
+            9718 TA Groningen (Kostverloren)        ,House Hoendiep,75 lec videos,"                €1,225 per month            ",75100,123Wonen Groningen ,3 months
+            9743 NC Groningen (Vinkhuizen-Noord)        ,House Briljantstraat,131 lec videos,"                €1,125 per month            ",131100,123Wonen Groningen ,6 months
+            9712 JH Groningen (Binnenstad-Noord)        ,Apartment Martinikerkhof,64 lec videos,"                €1,550 per month            ",64100,Maxx Groningen ,2 months
+            9724 BA Groningen (Oosterpoort)        ,Apartment Brandenburgerstraat,95 lec videos,"                €1,250 per month            ",95100,Maxx Groningen ,3 months
+            9722 CW Groningen (Helpman)        ,Apartment Wagnersingel,120 lec videos,"                €1,450 per month            ",120100,Van der Meulen Makelaars ,4 months
+            9723 LB Groningen (Kop van Oost)        ,Apartment Het Hout,55 lec videos,                €995 per month            ,55100,De Noordelijke Verhuur Makelaars ,2 months
+            9714 AV Groningen (Professorenbuurt)        ,Apartment Singelweg,116 lec videos,"                €1,650 per month            ",116100,Groningse Panden Beheer B.V. ,3 months
+            9711 VX Groningen (Binnenstad-Oost)        ,Apartment Turfsingel,35 lec videos,                €750 per month            ,35100,Maxx Groningen ,2 months
+            9723 AN Groningen (De Meeuwen)        ,Apartment Oosterhaven 4,170 lec videos,"                €2,500 per month            ",170100,Gruno Vastgoed B.V. ,7 months
+            9711 JC Groningen (Binnenstad-Zuid)        ,Apartment Akerkhof,100 lec videos,"                €1,995 per month            ",100100,Tuitman Vastgoed ,3 months
+            9722 GE Groningen (Helpman)        ,Apartment Coendersweg,115 lec videos,"                €1,150 per month            ",115100,123Wonen Groningen ,4 months
+            9715 CL Groningen (Indische buurt)        ,Apartment Padangstraat,99 lec videos,                Price on request            ,99100,BED'R Apartments ,3 months
+            9712 LP Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Boterdiep,95 lec videos,"                €1,650 per month            ",95100,Maxx Groningen ,3 months
+            9724 GJ Groningen (Oosterpoort)        ,Apartment Winschoterdiep,24 lec videos,                €850 per month            ,24100,Maxx Groningen ,2 months
+            9718 HW Groningen (Schildersbuurt)        ,House Leeuwarderstraat,70 lec videos,"                €1,295 per month            ",70100,123Wonen Groningen ,3 months
+            9714 BX Groningen (Professorenbuurt)        ,Apartment Bernoulliplein 35 a,90 lec videos,"                €1,750 per month            ",90100,Yure ,3 months
+            9725 JN Groningen (Herewegbuurt)        ,House Sterrebosstraat,90 lec videos,"                €1,450 per month            ",90100,Noordelijk Woningvastgoed BV ,6 months
+            9716 EA Groningen (De Hoogte)        ,Apartment Van Oldenbarneveltlaan,71 lec videos,"                €1,250 per month            ",71100,Maxx Groningen ,3 months
+            9725 AD Groningen (Herewegbuurt)        ,Apartment Hereweg 30 16,100 lec videos,"                €1,695 per month            ",100100,REC Vastgoed ,3 months
+            9723 ZN Groningen (De Linie)        ,House Verlengde Meeuwerderweg 145,130 lec videos,"                €1,850 per month            ",130100,REC Vastgoed ,5 months
+            9711 AC Groningen (Binnenstad-Zuid)        ,Apartment Praediniussingel,110 lec videos,"                €1,995 per month            ",110100,123Wonen Groningen ,5 months
+            9713 ED Groningen (Damsterbuurt)        ,Apartment Damsterdiep,50 lec videos,"                €1,125 per month            ",50100,Gout Beheer B.V. ,2 months
+            9725 JD Groningen (Herewegbuurt)        ,House Willemstraat 52,67 lec videos,"                €1,100 per month            ",67100,Lucas Klamer Makelaardij ,2 months
+            6217 KC Maastricht (Brusselsepoort)        ,Apartment Sint Annalaan 62 C,96 lec videos,                €950 per month            ,96100,MIJN HUIS en ik ,4 months
+            6211 CB Maastricht (Boschstraatkwartier)        ,Apartment Kleine Gracht,60 lec videos,"                €1,200 per month            ",60100,Het Hoofse Huis ,1 room
+            6211 RB Maastricht (Statenkwartier)        ,Room Herbenusstraat,28 lec videos,                €825 per month            ,28100,Woonder ,1 room
+            6211 PD Maastricht (Statenkwartier)        ,Apartment Brusselsestraat,80 lec videos,"                €1,150 per month            ",80100,Wonen Zuid Limburg ,3 months
+            6216 TJ Maastricht (Belfort)        ,Apartment Schippersdreef,79 lec videos,"                €1,100 per month            ",79100,SMITS. Real Estate ,3 months
+            6224 XD Maastricht (Wittevrouwenveld)        ,House Burgemeester Bauduinstraat 80,118 lec videos,"                €1,550 per month            ",118100,ViaDaan ,7 months
+            6224 EM Maastricht (Wittevrouwenveld)        ,Apartment Voltastraat 52,56 lec videos,"                €1,150 per month            ",56100,NOVA Housing ,2 months
+            6211 AT Maastricht (Boschstraatkwartier)        ,Apartment Boschstraat 39,30 lec videos,"                €1,015 per month            ",30100,Green Housing ,2 months
+            6212 HA Maastricht (Jekerdal)        ,House Wilgenlaan,130 lec videos,"                €1,700 per month            ",130100,Star Housing ,5 months
+            6224 KP Maastricht (Scharn)        ,Apartment Oranjeplein 80 E,85 lec videos,                €995 per month            ,85100,MIJN HUIS en ik ,3 months
+            6211 BZ Maastricht (Boschstraatkwartier)        ,Apartment Hoogzwanenstraat,107 lec videos,"                €1,395 per month            ",107100,Prohousing ,4 months
+            6225 XZ Maastricht (Wittevrouwenveld)        ,Apartment Atletenbaan 70 B,108 lec videos,"                €1,135 per month            ",108100,vb&t Verhuurmakelaars ,3 months
+            6221 BG Maastricht (Wyck)        ,House Wilhelminasingel,31 lec videos,                €750 per month            ,31100,Maasland Relocation ,2 months
+            6214 RB Maastricht (Mariaberg)        ,Room Pastoor Wijnenweg,16 lec videos,                €290 per month            ,16100,Maasland Relocation ,2 months
+            6211 EM Maastricht (Binnenstad)        ,House Hoenderstraat,40 lec videos,                €670 per month            ,40100,Maasland Relocation ,2 months
+            6211 SJ Maastricht (Statenkwartier)        ,House Batterijstraat,38 lec videos,                €800 per month            ,38100,Maasland Relocation ,2 months
+            6215 GD Maastricht (Daalhof)        ,Apartment Valeriushof,120 lec videos,"                €1,050 per month            ",120100,Van Gerwen Housing ,4 months
+            6212 AJ Maastricht (Villapark)        ,House Lage Kanaaldijk,120 lec videos,"                €1,695 per month            ",120100,Prohousing ,4 months
+            6211 RP Maastricht (Statenkwartier)        ,Apartment Capucijnenstraat,100 lec videos,"                €1,850 per month            ",100100,Van Gerwen Housing ,2 months
+            6211 LP Maastricht (Jekerkwartier)        ,Apartment Tongersestraat 60,55 lec videos,                €995 per month            ,55100,Woonhuis Limburg ,2 months
+            6221 KN Maastricht (Wyck)        ,Apartment Bellefroidlunet 4,186 lec videos,"                €2,350 per month            ",186100,Woonhuis Limburg ,4 months
+            6221 XH Maastricht (Sint Maartenspoort)        ,Apartment Sint Antoniuslaan,39 lec videos,                €895 per month            ,39100,Housing 4 You ,2 months
+            6224 HE Maastricht (Wittevrouwenveld)        ,Room Koning Childebertstraat,15 lec videos,                €390 per month            ,15100,Maasland Relocation ,2 months
+            6221 KN Maastricht (Wyck)        ,Apartment Bellefroidlunet,180 lec videos,"                €2,650 per month            ",180100,Residence Housing & Relocation ,6 months
+            6217 HB Maastricht (Caberg)        ,House Brusselseweg,100 lec videos,"                €1,350 per month            ",100100,Zuyd Makelaardij & Vastgoed ,7 months
+            6218 VX Maastricht (Malberg)        ,Apartment Laathofruwe,70 lec videos,                €860 per month            ,70100,Kracht Makelaars ,5 months
+            6219 NM Maastricht (Boschpoort)        ,House Jaagpad Oost,25 lec videos,                €950 per month            ,25100,Het Hoofse Huis ,2 months
+            6212 BN Maastricht (Villapark)        ,Apartment Glacisweg,52 lec videos,                €975 per month            ,52100,Prohousing ,2 months
+            6221 CX Maastricht (Wyck)        ,Studio Wycker Grachtstraat,28 lec videos,                €925 per month            ,28100,Prohousing ,1 room
+            6211 BV Maastricht (Boschstraatkwartier)        ,Apartment Maastrichter Pastoorstraat,45 lec videos,"                €1,300 per month            ",45100,Het Hoofse Huis ,2 months
+            9711 KV Groningen (Binnenstad-Zuid)        ,Apartment Vismarkt 46,100 lec videos,"                €1,795 per month            ",100100,REC Vastgoed ,4 months
+            9718 NG Groningen (Kostverloren)        ,Apartment Friesestraatweg 16 f,50 lec videos,"                €1,050 per month            ",50100,Schovast ,2 months
+            9717 LR Groningen (Noorderplantsoen)        ,House Bergstraat 5,66 lec videos,"                €1,300 per month            ",66100,Hoomly ,2 months
+            9712 LR Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Boterdiep,51 lec videos,"                €1,450 per month            ",51100,BED'R Apartments ,2 months
+            9722 AW Groningen (Helpman)        ,Apartment Helper Oostsingel,72 lec videos,"                €1,250 per month            ",72100,Groningse Panden Beheer B.V. ,2 months
+            9713 HM Groningen (Gorechtbuurt)        ,Apartment Gerbrand Bakkerstraat 64 a,100 lec videos,"                €1,295 per month            ",100100,REC Vastgoed ,3 months
+            9718 GM Groningen (Schildersbuurt)        ,Apartment Jozef Israëlsstraat,30 lec videos,                €935 per month            ,30100,Groningse Panden Beheer B.V. ,2 months
+            9726 BB Groningen (Zeeheldenbuurt)        ,Studio Paterswoldseweg,30 lec videos,"                €1,050 per month            ",30100,Havos Vastgoed ,1 room
+            9714 GX Groningen (Professorenbuurt)        ,Apartment Diephuisstraat,75 lec videos,"                €1,800 per month            ",75100,BED'R Apartments ,3 months
+            9712 JA Groningen (Binnenstad-Noord)        ,Apartment Hofstraat,96 lec videos,"                €1,399 per month            ",96100,Tuitman Vastgoed ,3 months
+            9715 AD Groningen (Indische buurt)        ,Room Korreweg,21 lec videos,                €430 per month            ,21100,Maxx Groningen ,1 room
+            9731 AL Groningen (Oosterhoogebrug)        ,Apartment Timpweg,200 lec videos,                €750 per month            ,200100,Maxx Groningen ,5 months
+            9743 RS Groningen (Vinkhuizen-Zuid)        ,House Zilverhof,118 lec videos,"                €1,395 per month            ",118100,123Wonen Groningen ,5 months
+            9711 HB Groningen (Binnenstad-Zuid)        ,Apartment Gedempte Zuiderdiep,55 lec videos,"                €1,100 per month            ",55100,Maxx Groningen ,2 months
+            9712 HE Groningen (Binnenstad-Noord)        ,Apartment Oude Ebbingestraat 71 a,45 lec videos,"                €1,175 per month            ",45100,Gruno Vastgoed B.V. ,2 months
+            9712 LN Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Boterdiep,50 lec videos,                Price on request            ,50100,BED'R Apartments ,2 months
+            9712 XB Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Noorderbinnensingel,55 lec videos,                Price on request            ,55100,BED'R Apartments ,2 months
+            9712 PJ Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Nieuwe Boteringestraat,45 lec videos,                Price on request            ,45100,BED'R Apartments ,2 months
+            9718 BJ Groningen (Binnenstad-Noord)        ,Apartment Lage der A,88 lec videos,"                €1,450 per month            ",88100,123Wonen Groningen ,3 months
+            9721 LA Groningen (De Wijert)        ,Apartment Vondellaan 19,74 lec videos,"                €1,695 per month            ",74100,Fides Diensten ,4 months
+            9722 BA Groningen (Helpman)        ,Apartment Brinklaan,40 lec videos,                €752 per month            ,40100,Tuitman Vastgoed ,2 months
+            9721 EB Groningen (Helpman)        ,Apartment Van Starkenborghstraat,32 lec videos,                €890 per month            ,32100,Tuitman Vastgoed ,2 months
+            9722 EK Groningen (Coendersborg)        ,Apartment Helper Brink,66 lec videos,"                €1,140 per month            ",66100,HouseHunting Groningen ,2 months
+            9715 BE Groningen (Indische buurt)        ,Apartment Fivelstraat,85 lec videos,"                €1,300 per month            ",85100,Tuitman Vastgoed ,4 months
+            9722 AW Groningen (Helpman)        ,Apartment Helper Oostsingel,104 lec videos,"                €1,600 per month            ",104100,Groningse Panden Beheer B.V. ,3 months
+            9711 BD Groningen (Binnenstad-Zuid)        ,Apartment Ubbo Emmiussingel 45 b,109 lec videos,"                €1,245 per month            ",109100,Pandomo Makelaars ,3 months
+            9727 BC Groningen (Laanhuizen)        ,House Paterswoldseweg,120 lec videos,"                €1,350 per month            ",120100,123Wonen Groningen ,4 months
+            9711 AA Groningen (Binnenstad-Zuid)        ,Apartment Praediniussingel 1,80 lec videos,"                €1,600 per month            ",80100,REC Vastgoed ,3 months
+            9711 AA Groningen (Binnenstad-Zuid)        ,Apartment Praediniussingel 1 d,65 lec videos,"                €1,500 per month            ",65100,REC Vastgoed ,2 months
+            9715 BE Groningen (Indische buurt)        ,Apartment Fivelstraat,55 lec videos,                €895 per month            ,55100,Tuitman Vastgoed ,3 months
+            9713 GN Groningen (Gorechtbuurt)        ,Apartment Linnaeusplein 41,70 lec videos,"                €1,300 per month            ",70100,REC Vastgoed ,3 months
+            9718 JC Groningen (Schildersbuurt)        ,House Kraneweg 9,180 lec videos,"                €2,250 per month            ",180100,REC Vastgoed ,4 months
+            9716 EA Groningen (De Hoogte)        ,Apartment Van Oldenbarneveltlaan,52 lec videos,"                €1,150 per month            ",52100,Maxx Groningen ,2 months
+            9712 TR Groningen (Hortusbuurt-Ebbingekwartier)        ,House Kamerlingheplein,281 lec videos,"                €2,495 per month            ",281100,Rotsvast Groningen ,8 months
+            9722 NC Groningen (Coendersborg)        ,Apartment Thorbeckelaan 18,90 lec videos,"                €1,400 per month            ",90100,REC Vastgoed ,3 months
+            9713 EJ Groningen (Gorechtbuurt)        ,Apartment Damsterdiep,85 lec videos,"                €1,100 per month            ",85100,HouseHunting Groningen ,4 months
+            9741 HT Groningen (Selwerd)        ,House Vlierstraat,100 lec videos,"                €1,350 per month            ",100100,123Wonen Groningen ,4 months
+            9712 SG Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Nieuwe Kijk in 't Jatstraat,86 lec videos,"                €1,475 per month            ",86100,Tuitman Vastgoed ,3 months
+            9728 VG Groningen (Hoornse Meer)        ,Apartment S.O.J. Palmelaan,110 lec videos,"                €1,250 per month            ",110100,HouseHunting Groningen ,4 months
+            9713 BR Groningen (Gorechtbuurt)        ,Apartment Wielewaalplein,48 lec videos,                €985 per month            ,48100,Tuitman Vastgoed ,2 months
+            9725 AD Groningen (Herewegbuurt)        ,Apartment Hereweg 30 17,100 lec videos,"                €1,695 per month            ",100100,REC Vastgoed ,3 months
+            9722 BP Groningen (Coendersborg)        ,Apartment Helperzoom,80 lec videos,"                €1,175 per month            ",80100,Tuitman Vastgoed ,4 months
+            9741 NE Groningen (Selwerd)        ,Apartment Elzenlaan,90 lec videos,"                €1,250 per month            ",90100,HouseHunting Groningen ,3 months
+            9713 HS Groningen (Gorechtbuurt)        ,Apartment Jan Hissink Jansenstraat,70 lec videos,"                €1,250 per month            ",70100,Ben-s.nl verhuur en beheer ,3 months
+            9712 KP Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Turfsingel,60 lec videos,                €915 per month            ,60100,123Wonen Groningen ,2 months
+            9717 HK Groningen (Noorderplantsoenbuurt)        ,House Grachtstraat,75 lec videos,"                €1,300 per month            ",75100,de makelaar Ella Onrust ,3 months
+            9727 BT Groningen (Grunobuurt)        ,Apartment Paterswoldseweg,90 lec videos,                €995 per month            ,90100,123Wonen Groningen ,4 months
+            9718 TA Groningen (Kostverloren)        ,House Hoendiep,75 lec videos,"                €1,225 per month            ",75100,123Wonen Groningen ,3 months
+            9743 NC Groningen (Vinkhuizen-Noord)        ,House Briljantstraat,131 lec videos,"                €1,125 per month            ",131100,123Wonen Groningen ,6 months
+            9712 JH Groningen (Binnenstad-Noord)        ,Apartment Martinikerkhof,64 lec videos,"                €1,550 per month            ",64100,Maxx Groningen ,2 months
+            9724 BA Groningen (Oosterpoort)        ,Apartment Brandenburgerstraat,95 lec videos,"                €1,250 per month            ",95100,Maxx Groningen ,3 months
+            9722 CW Groningen (Helpman)        ,Apartment Wagnersingel,120 lec videos,"                €1,450 per month            ",120100,Van der Meulen Makelaars ,4 months
+            9723 LB Groningen (Kop van Oost)        ,Apartment Het Hout,55 lec videos,                €995 per month            ,55100,De Noordelijke Verhuur Makelaars ,2 months
+            9714 AV Groningen (Professorenbuurt)        ,Apartment Singelweg,116 lec videos,"                €1,650 per month            ",116100,Groningse Panden Beheer B.V. ,3 months
+            9711 VX Groningen (Binnenstad-Oost)        ,Apartment Turfsingel,35 lec videos,                €750 per month            ,35100,Maxx Groningen ,2 months
+            9723 AN Groningen (De Meeuwen)        ,Apartment Oosterhaven 4,170 lec videos,"                €2,500 per month            ",170100,Gruno Vastgoed B.V. ,7 months
+            9711 JC Groningen (Binnenstad-Zuid)        ,Apartment Akerkhof,100 lec videos,"                €1,995 per month            ",100100,Tuitman Vastgoed ,3 months
+            9722 GE Groningen (Helpman)        ,Apartment Coendersweg,115 lec videos,"                €1,150 per month            ",115100,123Wonen Groningen ,4 months
+            9715 CL Groningen (Indische buurt)        ,Apartment Padangstraat,99 lec videos,                Price on request            ,99100,BED'R Apartments ,3 months
+            9712 LP Groningen (Hortusbuurt-Ebbingekwartier)        ,Apartment Boterdiep,95 lec videos,"                €1,650 per month            ",95100,Maxx Groningen ,3 months
+            9724 GJ Groningen (Oosterpoort)        ,Apartment Winschoterdiep,24 lec videos,                €850 per month            ,24100,Maxx Groningen ,2 months
+            9718 HW Groningen (Schildersbuurt)        ,House Leeuwarderstraat,70 lec videos,"                €1,295 per month            ",70100,123Wonen Groningen ,3 months
+            9714 BX Groningen (Professorenbuurt)        ,Apartment Bernoulliplein 35 a,90 lec videos,"                €1,750 per month            ",90100,Yure ,3 months
+            9725 JN Groningen (Herewegbuurt)        ,House Sterrebosstraat,90 lec videos,"                €1,450 per month            ",90100,Noordelijk Woningvastgoed BV ,6 months
+            9716 EA Groningen (De Hoogte)        ,Apartment Van Oldenbarneveltlaan,71 lec videos,"                €1,250 per month            ",71100,Maxx Groningen ,3 months
+            9725 AD Groningen (Herewegbuurt)        ,Apartment Hereweg 30 16,100 lec videos,"                €1,695 per month            ",100100,REC Vastgoed ,3 months
+            9723 ZN Groningen (De Linie)        ,House Verlengde Meeuwerderweg 145,130 lec videos,"                €1,850 per month            ",130100,REC Vastgoed ,5 months
+            9711 AC Groningen (Binnenstad-Zuid)        ,Apartment Praediniussingel,110 lec videos,"                €1,995 per month            ",110100,123Wonen Groningen ,5 months
+            9713 ED Groningen (Damsterbuurt)        ,Apartment Damsterdiep,50 lec videos,"                €1,125 per month            ",50100,Gout Beheer B.V. ,2 months
+            9725 JD Groningen (Herewegbuurt)        ,House Willemstraat 52,67 lec videos,"                €1,100 per month            ",67100,Lucas Klamer Makelaardij ,2 months
