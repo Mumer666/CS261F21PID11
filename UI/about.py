@@ -31,12 +31,12 @@ class Ui_window3(object):
         self.pushButton_2.setGeometry(QtCore.QRect(10, 100, 101, 31))
         self.pushButton_2.setStyleSheet("background-color: rgb(255, 255, 255);")
         self.pushButton_2.setObjectName("pushButton_2")
-        self.pushButton_3 = QtWidgets.QPushButton(self.centralwidget)
-        self.pushButton_3.setGeometry(QtCore.QRect(50, 420, 51, 51))
-        self.pushButton_3.setStyleSheet("background-image: url(:/newPrefix/pic/login.png);\n"
+        self.pushButton_113 = QtWidgets.QPushButton(self.centralwidget)
+        self.pushButton_113.setGeometry(QtCore.QRect(50, 420, 51, 51))
+        self.pushButton_113.setStyleSheet("background-image: url(:/newPrefix/pic/login.png);\n"
 "background-color: rgb(255, 255, 255);")
-        self.pushButton_3.setText("")
-        self.pushButton_3.setObjectName("pushButton_3")
+        self.pushButton_113.setText("")
+        self.pushButton_113.setObjectName("pushButton_113")
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
         self.label_2.setGeometry(QtCore.QRect(260, 100, 381, 271))
         self.label_2.setStyleSheet("background-image: url(:/newPrefix/pic/3.png);")

@@ -65,7 +65,7 @@
      <string>Scrapping</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="pushButton_113">
     <property name="geometry">
      <rect>
       <x>50</x>
