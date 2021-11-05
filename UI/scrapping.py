@@ -308,7 +308,7 @@ class Ui_window2(object):
         self.tableWidget_3.setRowCount(1)
         row =0
         try:    
-            val1 = str(course[rowss][column])
+            val1 = str(course[rowss][0])
             val2 = str(course[rowss][1])
             val3 = str(course[rowss][2])
             val4 = str(course[rowss][3])
