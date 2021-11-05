@@ -285,7 +285,57 @@ class Ui_window2(object):
         self.pushButton_2.setText(_translate("window2", "About"))
         self.pushButton_4.clicked.connect(self.loaddata1)
         self.loadData22()
+        self.pushButton_7.clicked.connect(self.SelectionSort)
+        self.pushButton_8.clicked.connect(self.getTextBySearch)
+    def getTextBySearch(self):
+        searchedText = self.lineEdit.text()
+        with open ('C://Users/DEll/Documents/DSA tasks/DSA project/CS261F21PID11/scrapping/course.csv' , 'r') as file:
+            data =  csv.reader(file)
+            course = []
+            for row in data:
+                course.append(row)
+        flag = False
+        for k in range (0,7):
+            for i in range (2,len(course)):
+                if course[i][k] == searchedText:
+                    flag = True
+                    column = k
+                    rowss = i 
+                    break
+            if flag == True:
+                break
+        
+        self.tableWidget_3.setRowCount(1)
+        row =0
+        try:    
+            val1 = str(course[rowss][column])
+            val2 = str(course[rowss][1])
+            val3 = str(course[rowss][2])
+            val4 = str(course[rowss][3])
+            val5 = str(course[rowss][4])
+            val6 = str(course[rowss][5])
+            val7 = str(course[rowss][6])
+        except:
+            val1 = "not found"
+            val2 = "not found"
+            val3 = "not found"
+            val4 = "not found"
+            val5 = "not found"
+            val6 = "not found"
+            val7 = "not found"
+        self.tableWidget_3.setItem(row ,0, QtWidgets.QTableWidgetItem(val1))
+        self.tableWidget_3.setItem(row, 1, QtWidgets.QTableWidgetItem(val2))
+        self.tableWidget_3.setItem(row, 2, QtWidgets.QTableWidgetItem(val3))
+        self.tableWidget_3.setItem(row, 3, QtWidgets.QTableWidgetItem(val4))
+        self.tableWidget_3.setItem(row, 4, QtWidgets.QTableWidgetItem(val5))
+        self.tableWidget_3.setItem(row, 5, QtWidgets.QTableWidgetItem(val6))
+        self.tableWidget_3.setItem(row, 6, QtWidgets.QTableWidgetItem(val7))
+        
+        
+        
     def loaddata1(self):
+        for m in range(0,100):
+            self.progressBar.setValue(m)
         with open ('C://Users/DEll/Documents/DSA tasks/DSA project/CS261F21PID11/scrapping/course.csv' , 'r') as file:
             data =  csv.reader(file)
             course = []
@@ -342,7 +392,45 @@ class Ui_window2(object):
                  self.tableWidget_2.setItem(row, 5, QtWidgets.QTableWidgetItem(val6))
                  self.tableWidget_2.setItem(row, 6, QtWidgets.QTableWidgetItem(val7))
                  row = row +1
-        
+    def SelectionSort(self):
+        with open ('C://Users/DEll/Documents/DSA tasks/DSA project/CS261F21PID11/scrapping/course.csv' , 'r') as file:
+            data =  csv.reader(file)
+            course = []
+            for row in data:
+                course.append(row)
+        for k in range (0,7):
+            for i in range (2,len(course)):
+                minimum = i
+                for j in range(i+1,len(course)):
+                    if course[minimum][k] > course[j][k]:
+                        minimum = j
+                temp = course[i][k]
+                course[i][k] = course[minimum][k]
+                course[minimum][k] = temp
+        self.tableWidget_2.setRowCount(len(course))
+        row =0
+        for j in range(2,len(course)):
+            try:
+               val1 = str(course[j][0])
+               val2 = str(course[j][1])
+               val3 = str(course[j][2])
+               val4 = str(course[j][3])
+               val5 = str(course[j][4])
+               val6 = str(course[j][5])
+               val7 = str(course[j][6])
+            except:
+                pass
+            
+            self.tableWidget_2.setItem(row ,0, QtWidgets.QTableWidgetItem(val1))
+            self.tableWidget_2.setItem(row, 1, QtWidgets.QTableWidgetItem(val2))
+            self.tableWidget_2.setItem(row, 2, QtWidgets.QTableWidgetItem(val3))
+            self.tableWidget_2.setItem(row, 3, QtWidgets.QTableWidgetItem(val4))
+            self.tableWidget_2.setItem(row, 4, QtWidgets.QTableWidgetItem(val5))
+            self.tableWidget_2.setItem(row, 5, QtWidgets.QTableWidgetItem(val6))
+            self.tableWidget_2.setItem(row, 6, QtWidgets.QTableWidgetItem(val7))
+            row = row +1
+            
+                
         
 import image
 
